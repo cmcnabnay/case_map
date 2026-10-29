@@ -1,0 +1,2020 @@
+{
+  "Aceves v. U.S. Bank, N.A., California Court of Appeal, 2011, Mallano, P.J.": {
+    "place_name": "Aceves's residence, Los Angeles County, California",
+    "lat": 34.0537,
+    "lng": -118.2428,
+    "precision": "county",
+    "source_file": "contracts/CB pp 243-253",
+    "evidence": "\"The loan was evidenced by a note secured by a deed of trust on Aceves's residence\"; in reliance on U.S. Bank's promise to work with her, she gave up chapter 13 bankruptcy protection.",
+    "notes": "The opinion doesn't give the address. The Second District, Division One court sits in Los Angeles. The pin is at Los Angeles because no address is given.",
+    "located_at": "2026-10-17"
+  },
+  "Aikens v. Debow": {
+    "place_name": "Route 901 overpass over I-81 at the Spring Mills exit, Berkeley County, West Virginia",
+    "lat": 39.55843,
+    "lng": -77.953887,
+    "precision": "town",
+    "source_file": "torts/560-577",
+    "evidence": "A truck's trackhoe was \"too high to pass safely under the Route 901 overpass, an accident resulted which caused substantial damage to the bridge\"; the Econo-Lodge \"is located on Route 901 and can be accessed by exiting from Interstate 81 at the Spring Mills Road exit.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Alaska Democratic Party v. Rice, Supreme Court of Alaska, 1997, opinion by Justice Rabinowitz": {
+    "place_name": "Alaska Democratic Party headquarters, Anchorage, Alaska",
+    "lat": 61.1967328,
+    "lng": -149.8729008,
+    "precision": "building",
+    "source_file": "contracts/CB pp 335-370",
+    "evidence": "Wakefield, as chair-elect, offered Rice \"a two-year position as executive director of the Party\"; \"In November, Rice moved to Alaska, resigning her position\" in Maryland.",
+    "notes": "The opinion does not give the Party's office address. Federal Election Commission filings show the Party's street address as 2205 E Tudor Rd, Bldg C, Suite 35, Anchorage in 1984-86, only a PO Box (104199) from 1988 through 2002, and 2602 Fairbanks St from 2008 on. No street address is on record for 1992-93, when the events took place. The pin is 2602 Fairbanks St, the Party's long-time headquarters and the earliest verified street address after the case; it is not confirmed for 1993. Rice was in Maryland when the offer was made. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-17",
+    "address": "2602 Fairbanks St, Anchorage, AK 99503"
+  },
+  "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986), U.S. Supreme Court": {
+    "place_name": "Liberty Lobby, 300 Independence Ave. SE, Washington, D.C.",
+    "lat": 38.88776,
+    "lng": -77.00181,
+    "precision": "building",
+    "source_file": "civil_procedure/578-81",
+    "evidence": "Libel suit \"between a self-styled 'citizen's lobby' organized as a non-profit corporation and the editor of a magazine that published allegedly defamatory statements about the corporation.\"",
+    "notes": "The casebook summary gives no place. Liberty Lobby's Capitol Hill headquarters and Jack Anderson's D.C.-based magazine (The Investigator) come from outside knowledge; the suit was in D.D.C. Refined: Liberty Lobby's headquarters at 300 Independence Ave. SE comes from outside knowledge; the allegedly libelous articles ran in The Investigator.",
+    "located_at": "2026-10-17"
+  },
+  "Anonymous Physician v. Wininger ": {
+    "place_name": "Orange County, Indiana (Paoli)",
+    "lat": 38.556166,
+    "lng": -86.468321,
+    "precision": "county",
+    "source_file": "civil_procedure/Anonymous Physician_Class 1 Reading.pdf",
+    "evidence": "\"On March 20, 2007, A.P. shortened the second toe on Wininger's right foot\" — Court of Appeals of Indiana, No. 59A04-1303-MI-103.",
+    "notes": "The opinion does not name the clinic. The case number's county code 59 is Orange County, Indiana, where the action was heard, so the pin is at the county seat.",
+    "located_at": "2026-10-17"
+  },
+  "Ashcroft v. Iqbal, Supreme Court, 2009 (Kennedy, J.)": {
+    "place_name": "Metropolitan Detention Center (MDC), Sunset Park, Brooklyn, NY",
+    "lat": 40.659735,
+    "lng": -74.003587,
+    "precision": "building",
+    "source_file": "civil_procedure/207-19",
+    "evidence": "\"Pending trial for those crimes, respondent was housed at the Metropolitan Detention Center (MDC) in Brooklyn, New York.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Baltimore & Ohio Railroad Co. v. Goodman, 275 U.S. 66 (1927), Mr. Justice Holmes": {
+    "place_name": "Grade crossing in an unincorporated village, Montgomery County, Ohio",
+    "lat": 39.683733,
+    "lng": -84.285482,
+    "precision": "county",
+    "source_file": "torts/206-277",
+    "evidence": "Goodman \"was killed by a train running southwesterly across the road\" at a grade crossing near a section house.",
+    "notes": "The opinion doesn't name the crossing; the case came up through the Sixth Circuit (Ohio). Refined: The Sixth Circuit opinion (10 F.2d 58) places the crossing \"in an unincorporated village in Montgomery county, Ohio\"; the village isn't named, so the pin marks the county.",
+    "located_at": "2026-10-17"
+  },
+  "Barker v. City of Philadelphia, United States District Court, Eastern District of Pennsylvania, 1955": {
+    "place_name": "Philadelphia, Pennsylvania",
+    "lat": 39.952724,
+    "lng": -75.163526,
+    "precision": "town",
+    "source_file": "torts/142-206",
+    "evidence": "\"The accident occurred in a densely populated section of the City of Philadelphia,\" a block and a half from the city's trash-truck garage, next to a playground. |",
+    "located_at": "2026-10-17"
+  },
+  "Barnum v. Williams, 264 Or. 71 (1972), Denecke, Justice": {
+    "place_name": "SW Vista Avenue, Portland, Oregon",
+    "lat": 45.522113,
+    "lng": -122.698222,
+    "precision": "address",
+    "source_file": "torts/206-277",
+    "evidence": "\"The collision occurred on a rainy day on Vista Avenue, in Portland. The plaintiff was going uphill and rounding an extremely sharp curve to his left.\"",
+    "notes": "The pin is on Vista Avenue; the opinion doesn't identify which curve.",
+    "located_at": "2026-10-17"
+  },
+  "Batsakis v. Demotsis, Court of Civil Appeals of Texas, Nov. 16, 1949, McGill, J.": {
+    "place_name": "Batsakis's address in Piraeus, Greece (Konstantinou Diadochou 7)",
+    "lat": 37.9429857,
+    "lng": 23.6469832,
+    "precision": "town",
+    "source_file": "contracts/Batsakis v Demotsis.pdf",
+    "evidence": "The instrument: \"Peiraeus / April 2, 1942 / Mr. George Batsakis / Konstantinou Diadohou #7 / Peiraeus ... I received today from you the amount of two thousand dollars.\"",
+    "notes": "The street address is quoted from the written instrument in the opinion. Google Maps could not find it: Latin and Greek spellings of 'Konstantinou Diadochou 7' (and the reversed 'Diadochou Konstantinou') returned only Piraeus as a whole or unrelated places, so the street was probably renamed or renumbered since 1942. The pin is Google Maps' marker for Piraeus, not the building. The 500,000-drachma loan was made in occupied Greece; the suit was later brought in Bexar County, Texas.",
+    "located_at": "2026-10-17",
+    "address": "Konstantinou Diadochou 7, Piraeus, Greece"
+  },
+  "Beauchamp v. Dow Chemical Co.": {
+    "place_name": "Dow Chemical Co., Midland, Michigan",
+    "lat": 43.615583,
+    "lng": -84.247212,
+    "precision": "town",
+    "source_file": "torts/pp 1-40.txt",
+    "evidence": "\"Plaintiff Ronald Beauchamp was employed for two years as a research chemist by defendant Dow Chemical Company\" and was exposed to \"agent orange.\"",
+    "notes": "Dow's Midland headquarters comes from outside knowledge; the opinion doesn't name the lab.",
+    "located_at": "2026-10-17"
+  },
+  "Beaver v. Brumlow, Court of Appeals of New Mexico, 2010, opinion by Judge Vigil": {
+    "place_name": "Ruidoso Downs, New Mexico",
+    "lat": 33.331213,
+    "lng": -105.590836,
+    "precision": "town",
+    "source_file": "contracts/CB pp 335-370",
+    "evidence": "\"Sellers purchased twenty-four acres of property in the Village of Ruidoso Downs ... the parties walked the specific boundaries of the property\"; the Brumlows put a home on it. |",
+    "located_at": "2026-10-17"
+  },
+  "Beeck v. Aquaslide ’N’ Dive Corp., 562 F.2d 537 (8th Cir. 1977)": {
+    "place_name": "Kimberly Village, Davenport, Iowa",
+    "lat": 41.564625,
+    "lng": -90.586152,
+    "precision": "building",
+    "source_file": "civil_procedure/302-06",
+    "evidence": "\"On July 15, 1972, Jerry A. Beeck was injured while using the slide at a social gathering sponsored at Kimberly Village by his employer\" (Kimberly Village Home Association of Davenport, Iowa).",
+    "notes": "Kimberly Village is a residential complex north of Kimberly Road near W. 46th St. in Davenport; the pin is the complex as mapped in OpenStreetMap.",
+    "located_at": "2026-10-24"
+  },
+  "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)": {
+    "place_name": "United States (nationwide local telephone markets)",
+    "lat": 39.8283,
+    "lng": -98.5795,
+    "precision": "country",
+    "source_file": "civil_procedure/192-205",
+    "evidence": "Putative class of \"subscribers of local telephone and/or high speed internet services\" alleging the regional Bell companies (ILECs) conspired not to compete in one another's territories.",
+    "notes": "The alleged conspiracy spans the ILECs' service areas nationwide, so the pin marks the U.S. geographic center.",
+    "located_at": "2026-10-17"
+  },
+  "Bennett v. Stanley": {
+    "place_name": "Stanleys' pool, Washington County, Ohio",
+    "lat": 39.478264,
+    "lng": -81.548895,
+    "precision": "county",
+    "source_file": "torts/424-463",
+    "evidence": "\"Bennett ran next door to his neighbors' house to find mother and son unconscious in the swimming pool.\"",
+    "notes": "The town isn't given. Refined: The appeal came from the Court of Appeals for Washington County (No. 98CA36), per the Ohio Supreme Court opinion (2001-Ohio-128).",
+    "located_at": "2026-10-17"
+  },
+  "Bernhard v. Bank of America National Trust & Savings Ass'n": {
+    "place_name": "First National Bank of San Dimas, 135 W. Bonita Ave., San Dimas, California",
+    "lat": 34.106891,
+    "lng": -117.808269,
+    "precision": "building",
+    "source_file": "civil_procedure/759-63",
+    "evidence": "\"Mrs. Clara Sather, an elderly woman, made her home with Mr. and Mrs. Charles O. Cook in San Dimas, California\" — her money was moved to and withdrawn from \"the First National Bank of San Dimas.\" |",
+    "located_at": "2026-10-24",
+    "notes": "The address 135 W. Bonita Ave. is the former location of the First National Bank of San Dimas; the building is a Bank of America branch today."
+  },
+  "Berryman v. Kmoch, Supreme Court of Kansas, 221 Kan. 304, 559 P.2d 790 (1977)": {
+    "place_name": "Johnson City, Stanton County, Kansas (meeting place; land is 960 acres in Stanton County)",
+    "lat": 37.5703377,
+    "lng": -101.7506777,
+    "precision": "town",
+    "source_file": "contracts/CB pp 255-263",
+    "evidence": "\"Goertz and Kmoch flew to Johnson, Kansas, where a meeting with Berryman had been arranged. At this meeting the option agreement was signed\" for 960 acres in Stanton County. |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion says only that Goertz and Kmoch 'flew to Johnson, Kansas, where a meeting with Berryman had been arranged,' and that the option covered '960 acres of land located in Stanton County, Kansas.' It names no building, airport or road for the meeting and gives no legal description for the land. The only street address in the opinion, 1155 Ash Street, Denver, is the broker Kmoch's address, not the site of the facts. The pin is Google Maps' marker for Johnson City, KS."
+  },
+  "Bowers v. Mortgage Electronic Registration Systems, U.S. District Court for the District of Kansas, June 1, 2011, David J. Waxse": {
+    "place_name": "Bowers home, 6235 NE Kendall Wood Dr., Topeka, Kansas",
+    "lat": 39.160501,
+    "lng": -95.638576,
+    "precision": "address",
+    "source_file": "civil_procedure/288-91",
+    "evidence": "\"Plaintiffs executed a residential mortgage on or about October 9, 2008 ... granted their lender a security interest in their property\" (claims under the Kansas Consumer Protection Act).",
+    "notes": "The 2011 opinion gives no address. Later orders in the same case (No. 5:10-cv-04141, D. Kan., Oct. 4, 2012 and Mar. 26, 2013) reportedly give the property as 6235 NE Kendall Wood Drive (Lot 3, Block D, Indian Valley Subdivision II, Shawnee County); the Bowerses bought it from the builder on Mar. 28, 2007.",
+    "located_at": "2026-10-24"
+  },
+  "Breaking Glass Pictures, LLC v. Does 1–188": {
+    "place_name": "E.D. Missouri (St. Louis)",
+    "lat": 38.62545,
+    "lng": -90.196959,
+    "precision": "forum",
+    "source_file": "civil_procedure/729-32",
+    "evidence": "\"Plaintiff alleges that some of the Defendants are Missouri residents and were part of a swarm that allowed them and others to steal Plaintiff's movie, '6 Degrees of Hell.'\"",
+    "notes": "The infringement happened online in a BitTorrent swarm, so the pin marks the court.",
+    "located_at": "2026-10-17"
+  },
+  "Brown v. Ameriprise Financial Services, Inc., D. Minn., 2011, Richard H. Kyle": {
+    "place_name": "Ameriprise Financial Headquarters, 901 3rd Ave. S., Minneapolis, Minnesota",
+    "lat": 44.97243,
+    "lng": -93.269594,
+    "precision": "building",
+    "source_file": "civil_procedure/262-70",
+    "evidence": "Plaintiff alleged that \"Defendant, her former employer, had discriminated against her and other similarly situated African-American employees — numbering 'at least 1000.'\"",
+    "notes": "The opinions don't name her office. The April 16, 2010 order (No. 09-cv-02413, Doc. 39) says she worked nine years at Ameriprise as a manager in Employee Relations and then Risk Mitigation, and filed her charge with the Minneapolis Department of Civil Rights. Both point to the Minneapolis corporate offices, so the pin is the headquarters at 901 3rd Ave. S.",
+    "located_at": "2026-10-24"
+  },
+  "Brown v. Kendall, Supreme Judicial Court of Massachusetts, 1850, Shaw, C.J.": {
+    "place_name": "Massachusetts",
+    "lat": 42.4,
+    "lng": -71.8,
+    "precision": "state",
+    "source_file": "torts/142-206",
+    "evidence": "\"two dogs, belonging to the plaintiff and the defendant, respectively, were fighting in the presence of their masters\"; Kendall's stick hit Brown in the eye.",
+    "notes": "No place is given.",
+    "located_at": "2026-10-17"
+  },
+  "Brown v. Kerr, Court of Appeals of Kentucky, 2010 (unpublished) (Moore, J.)": {
+    "place_name": "Kentucky (the Kerr family farm)",
+    "lat": 37.5,
+    "lng": -85.3,
+    "precision": "state",
+    "source_file": "torts/278-349",
+    "evidence": "\"Clayton and Roy went to Clayton's parents' farm. While there, Clayton shot Roy in the back of the head.\"",
+    "notes": "The county isn't given.",
+    "located_at": "2026-10-17"
+  },
+  "Brown v. Martinez, Supreme Court of New Mexico, 1961, Moise, Justice": {
+    "place_name": "Martinez's farm, near Gallup, New Mexico",
+    "lat": 35.528351,
+    "lng": -108.743907,
+    "precision": "town",
+    "source_file": "torts/142-206",
+    "evidence": "Shot \"while engaged with several other boys in a watermelon stealing escapade on appellee's property.\"",
+    "notes": "The town isn't given. Refined: Appellants' counsel were from Gallup (68 N.M. 271); the farm's location isn't stated, so the pin is at Gallup.",
+    "located_at": "2026-10-17"
+  },
+  "Buffaloe v. Hart, North Carolina Court of Appeals": {
+    "place_name": "Hart farm, Franklin County, North Carolina",
+    "lat": 36.0730279,
+    "lng": -78.2476146,
+    "precision": "county",
+    "source_file": "contracts/CB pp 373-382",
+    "evidence": "Five tobacco barns \"located on their farm\"; \"The offer was made in Mrs. Hart's front yard\" (Franklin County).",
+    "notes": "The opinion says only that the five 'roanoke box' tobacco barns were on the Harts' farm in Franklin County and that the offer was made in Mrs. Hart's front yard; it gives no road, town or address. The farm is a private family's home and land and is not located here. The pin is Google Maps' marker for Franklin County, NC.",
+    "located_at": "2026-10-17"
+  },
+  "Byrne v. Boadle, Court of Exchequer, 1863": {
+    "place_name": "Scotland Road, Liverpool, England",
+    "lat": 53.422867,
+    "lng": -2.982151,
+    "precision": "address",
+    "source_file": "torts/278-349",
+    "evidence": "\"I was in Scotland Road, on the right side going north, defendant's shop is on that side ... a barrel of flour fell from a window above in defendant's house and shop, and knocked the plaintiff down.\" |",
+    "located_at": "2026-10-17"
+  },
+  "C & J Fertilizer, Inc. v. Allied Mutual Insurance Co.": {
+    "place_name": "C & J Fertilizer plant, Olds, Iowa",
+    "lat": 41.1341914,
+    "lng": -91.5448829,
+    "precision": "town",
+    "source_file": "contracts/CB pp 418-429",
+    "evidence": "\"Plaintiff operated a fertilizer plant in Olds, Iowa\"; chemicals were taken from a locked interior room of the warehouse. |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion says only that plaintiff 'operated a fertilizer plant in Olds, Iowa' (Henry County; the burglary was April 18-19, 1970). The Iowa Secretary of State's business records show C AND J FERTILIZER, INC. (No. 6489, incorporated March 16, 1967, now inactive) with a registered agent in Olds, IA 52647 but no street address and no principal-office address. Google Maps has no business of that name in Olds, so the plant's street site is not available online. The pin is Google Maps' marker for the town of Olds."
+  },
+  "Catsouras v. Department of the California Highway Patrol": {
+    "place_name": "SR-241 toll road at the Alton Parkway interchange, Lake Forest, California",
+    "lat": 33.68,
+    "lng": -117.6737,
+    "precision": "address",
+    "source_file": "torts/505-540",
+    "evidence": "On \"October 31, 2006, decedent ... was decapitated in an automobile accident. CHP officers ... took multiple photographs\" and e-mailed them to the public.",
+    "notes": "The crash location near the 241 toll road in Lake Forest comes from outside knowledge. Refined: Accounts of the crash (e.g. Wikipedia, \"Nikki Catsouras photographs controversy\") place the impact at the toll booth beside the Alton Parkway single-point interchange on the 241 Toll Road; the pin is that interchange (from OpenStreetMap).",
+    "located_at": "2026-10-17"
+  },
+  "Celotex Corp. v. Catrett, U.S. Supreme Court, 1986, opinion by Rehnquist, J": {
+    "place_name": "Anning-Johnson Co., 1959 Anson Dr., Melrose Park, Illinois (Catrett's employer, 1970–71)",
+    "lat": 41.909152,
+    "lng": -87.888977,
+    "precision": "building",
+    "source_file": "civil_procedure/584-90",
+    "evidence": "The District Court found \"no showing that the plaintiff was exposed to the defendant Celotex's product in the District of Columbia or elsewhere within the statutory period.\"",
+    "notes": "The casebook excerpt gives only the D.C. trial court. On remand, the D.C. Circuit (Catrett v. Johns-Manville Sales Corp., 826 F.2d 33, 35 & n.2 (D.C. Cir. 1987)) says Catrett was exposed to Firebar fireproofing \"while working for a company called Anning-Johnson in the Chicago, Illinois area\" and identifies Anning-Johnson as \"a company in Melrose Park, Illinois.\" The Hoff letter says his duties were \"to supervise and train crews in the application of Firebar Fireproofing.\" The pin is Anning-Johnson's Melrose Park office as Google Maps shows it today. The job sites where he applied Firebar aren't named, and the company's 1971 address isn't confirmed.",
+    "located_at": "2026-10-24"
+  },
+  "Chevron Corp. v. Donziger, No. 11 Civ. 0691, 2013 WL 1087236 (S.D.N.Y. Mar. 15, 2013)": {
+    "place_name": "Lago Agrio No. 1 well (Texaco/TexPet, 1967), Nueva Loja, Sucumbíos, Ecuador",
+    "lat": 0.1059943,
+    "lng": -76.8645118,
+    "precision": "building",
+    "source_file": "civil_procedure/433-36",
+    "evidence": "Litigation over \"an intensely controversial, multi-billion-dollar Ecuadorian court judgment against Chevron for environmental damage caused by Chevron in the Lago Agria region in Ecuador.\"",
+    "notes": "The casebook excerpt says only \"the Lago Agria region.\" The judgment covered contamination from TexPet's (Texaco's) oil operations in the Napo concession in Ecuador's Oriente, run by the Texaco-Gulf consortium from 1967 to 1990; Chevron became a defendant after merging with Texaco in 2001. The pin is the Lago Agrio No. 1 well (spudded 1967), the consortium's discovery well, which named both the field and the litigation. Google Maps lists it as \"Pozo Lago Agrio 1\" (444P+95X Nueva Loja); only the pump jack and a memorial sign remain. The contaminated sites themselves are spread across the concession, and the S.D.N.Y. discovery dispute was in New York.",
+    "located_at": "2026-10-24"
+  },
+  "Chevron Corp. v. The Weinberg Group": {
+    "place_name": "The Weinberg Group, 1129 20th St. NW, Suite 600, Washington, D.C.",
+    "lat": 38.904549,
+    "lng": -77.044507,
+    "precision": "building",
+    "source_file": "civil_procedure/433-36",
+    "evidence": "Chevron alleged \"The Weinberg Group hired six experts to 'cleanse' the Cabrera report\" and challenged Weinberg's privilege log (D.D.C.).",
+    "notes": "The opinion (D.D.C.) does not give the firm's address. 1129 20th St. NW, Suite 600 is The Weinberg Group's headquarters address in business directories; the pin is that building as mapped in OpenStreetMap. Whether the firm was at this address when it did the Cabrera-report work is not confirmed.",
+    "located_at": "2026-10-24"
+  },
+  "Cochran v. Burger King Corporation": {
+    "place_name": "Burger King, 215 E. Young St., Warrensburg, Missouri",
+    "lat": 38.77149,
+    "lng": -93.736187,
+    "precision": "building",
+    "source_file": "torts/424-463",
+    "evidence": "Cochran \"was in Warrensburg, Missouri ... cut through the parking lot of Burger King,\" then fell climbing the dumpster enclosure wall. |",
+    "located_at": "2026-10-24",
+    "notes": "This is Warrensburg's Burger King today; the opinion doesn't give the address, so it's assumed to be the same restaurant."
+  },
+  "Cohen v. Beneficial Industrial Loan Corp.": {
+    "place_name": "Beneficial Management Corporation, 15 Washington St., Newark, New Jersey",
+    "lat": 40.744293,
+    "lng": -74.170901,
+    "precision": "building",
+    "source_file": "civil_procedure/685-87",
+    "evidence": "Derivative suit \"in the right of the Beneficial Industrial Loan Corporation, a Delaware corporation doing business in New Jersey.\"",
+    "notes": "The Supreme Court opinion gives only \"doing business in New Jersey.\" The 1946 district-court opinion (69 F. Supp. 297, D.N.J.) says the alleged diversions ran through payments of over $26 million (1937–43) to the affiliate Beneficial Management Corporation. That firm managed the loan offices from Newark (N.Y. Times, 1951), and the Special Libraries Association's 1942 Directory of Members lists it at 15 Washington St., Newark. The building is now Rutgers–Newark's 15 Washington residence hall.",
+    "located_at": "2026-10-24"
+  },
+  "Colgrove v. Battin": {
+    "place_name": "U.S. District Court, Billings, Montana",
+    "lat": 45.784497,
+    "lng": -108.504386,
+    "precision": "forum",
+    "source_file": "civil_procedure/511-18",
+    "evidence": "The dispute is over \"Local Rule 13(d)(1) ... of the United States District Court for the District of Montana,\" which set a six-person civil jury.",
+    "notes": "Neither the casebook nor the Supreme Court opinion describes the underlying suit. At oral argument (Jan. 17, 1973), petitioner's counsel said \"This case was a libel\"; the plaintiff was the petitioner, Roland V. Colgrove, a Miles City, Montana attorney, and the case was set for trial in the Billings Division before Judge Battin. No source found names the defendant or where the alleged libel was published, so the pin stays on the court (the present James F. Battin Federal Courthouse).",
+    "located_at": "2026-10-24"
+  },
+  "Commerce Partnership 8098 Limited Partnership v. Equity Contracting Co., Florida District Court of Appeal, En Banc": {
+    "place_name": "Office building at 1280-1286 W Newport Center Dr, Deerfield Beach, Florida (owned by Commerce Partnership #8908 Ltd)",
+    "lat": 26.2998824,
+    "lng": -80.1252805,
+    "precision": "building",
+    "source_file": "contracts/CB pp 286-317",
+    "evidence": "\"Commerce was the owner of an office building.\" Equity was the stucco subcontractor on improvements to Commerce's property.",
+    "notes": "The opinion does not give the location of the office building. A commercial-property database built from public records lists one South Florida property for 'Commerce Partnership #8908 Ltd % Commerce Mgmt Group Inc' (the opinion's own text spells the partnership '8908' in places): 1280-1286 W Newport Center Dr, Deerfield Beach, in Broward County, within the Fourth District's territory. The location is inferred from that listing; the court record does not confirm that this is the building in the case or that the partnership owned it at the time of the work. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-17",
+    "address": "1280 W Newport Center Dr, Deerfield Beach, FL 33442"
+  },
+  "Conley v. Gibson, Supreme Court, 1957, Justice Black": {
+    "place_name": "Southern Pacific (T&NO) freight station area, Walnut & Wood Sts., north of Buffalo Bayou, Houston, Texas",
+    "lat": 29.7671,
+    "lng": -95.356,
+    "precision": "region",
+    "source_file": "civil_procedure/186-90",
+    "evidence": "\"Petitioners were employees of the Texas and New Orleans Railroad at its Houston Freight House.\" The railroad abolished 45 jobs held by Black workers and gave them to whites. |",
+    "located_at": "2026-10-24",
+    "notes": "Not Englewood Yard: Google Maps returns UP's Englewood Yard (5500 Wallisville Rd) for the name, but Englewood was the classification yard, listed separately from the \"Southern Pacific Freight station\" on a 1927 rail tour route (Houston Post-Dispatch, May 5, 1927). Period sources put the freight house in the warehouse district just north of downtown and Buffalo Bayou: lumber was salvaged \"at old Southern Pacific freight house, North San Jacinto street and Shea street\" (Houston Post-Dispatch, Dec. 16, 1928); a 1928 item puts a new building at \"Walnut and Wood streets, adjacent to the Southern Pacific freight offices\" (May 21, 1928); and the San Jacinto Warehouse NRHP nomination shows the SP freight depot on that block in c. 1924 Sanborn maps. The pin is at Walnut & Wood. The exact 1950s building isn't confirmed."
+  },
+  "ConnectU LLC v. Zuckerberg": {
+    "place_name": "819 La Jennifer Way, Palo Alto, California",
+    "lat": 37.411721,
+    "lng": -122.134889,
+    "precision": "address",
+    "source_file": "civil_procedure/877-83",
+    "evidence": "\"From mid-June through mid-September, 2004, he lived at 819 La Jennifer Way in Palo Alto, California\" — his residence when the complaint was filed (Sept. 2, 2004), which decided the domicile question.",
+    "notes": "Other places in the opinion: the family home at 2 Russell Place, Dobbs Ferry, NY, and Kirkland House at Harvard.",
+    "located_at": "2026-10-17"
+  },
+  "Connecticut v. Doehr": {
+    "place_name": "Doehr's home, Meriden, Connecticut",
+    "lat": 41.538188,
+    "lng": -72.802613,
+    "precision": "town",
+    "source_file": "civil_procedure/96-101",
+    "evidence": "\"DiGiovanni submitted an application ... for an attachment in the amount of $75,000 on respondent Brian K. Doehr's home in Meriden, Connecticut.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Cook v. Coldwell Banker/Frank Laiben Realty Co.": {
+    "place_name": "Coldwell Banker/Frank Laiben Realty Co., Festus, Missouri",
+    "lat": 38.215291,
+    "lng": -90.3868932,
+    "precision": "building",
+    "source_file": "contracts/CB pp 52-66",
+    "evidence": "\"At a sales meeting in March, 1991, defendant, through Laiben, orally announced a bonus program.\"",
+    "notes": "The opinion (Missouri Court of Appeals, Eastern District, 967 S.W.2d 654) names the brokerage and says the bonus announcements were made at sales meetings, but gives no office address. A Realtor.com agency listing gives the company's office as 502 S Truman Blvd, Festus, MO 63028, and plaintiff's counsel was also from Festus. The listing is current; the office's location in 1991-92 is not confirmed, and the company may have had other branches (it also has a Facebook page tied to Crystal City, MO). Address and coordinates from Google Maps.",
+    "located_at": "2026-10-17",
+    "address": "502 S Truman Blvd, Festus, MO 63028"
+  },
+  "Crabtree v. Elizabeth Arden Sales Corp., New York Court of Appeals, 1953, opinion by Judge Fuld": {
+    "place_name": "Elizabeth Arden, 681 Fifth Avenue, New York",
+    "lat": 40.7609,
+    "lng": -73.9751,
+    "precision": "address",
+    "source_file": "contracts/CB pp 335-370",
+    "evidence": "The memo on a telephone order blank: \"Employment Agreement with Nate Crabtree / At 681—5th Ave / Date Sept. 26-1947 / 6:PM.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Creasy v. Rusk, Supreme Court of Indiana, 2000": {
+    "place_name": "Brethren Healthcare Center, Flora, Indiana",
+    "lat": 40.547259,
+    "lng": -86.524443,
+    "precision": "town",
+    "source_file": "torts/142-206",
+    "evidence": "\"Rusk's wife admitted Rusk to the Brethren Healthcare Center\"; he kicked Creasy while she was putting him to bed.",
+    "notes": "The facility's town isn't given in the opinion. Refined: Case summaries (e.g. elder-law.com, June 2000) place the Brethren Healthcare Center in Flora, Indiana.",
+    "located_at": "2026-10-17"
+  },
+  "Credit Bureau Enterprises, Inc. v. Pelo; Supreme Court of Iowa; 2000; McGiverin, CJ": {
+    "place_name": "Ellsworth Municipal Hospital (now Hansen Family Hospital), 920 S. Oak St., Iowa Falls, Iowa",
+    "lat": 42.500696,
+    "lng": -93.260609,
+    "precision": "building",
+    "source_file": "contracts/CB pp 286-317",
+    "evidence": "\"the Hardin County Magistrate was contacted by Dr. Gude from the Ellsworth Municipal Hospital in Iowa Falls\"; Pelo signed the release form there.",
+    "notes": "Ellsworth Municipal Hospital is now Hansen Family Hospital; the pin is that hospital's site, mapped in OpenStreetMap.",
+    "located_at": "2026-10-24"
+  },
+  "Cromwell v. County of Sac": {
+    "place_name": "Sac County, Iowa (Sac City)",
+    "lat": 42.422115,
+    "lng": -94.988584,
+    "precision": "county",
+    "source_file": "civil_procedure/754-57",
+    "evidence": "\"This was an action on four bonds of the county of Sac, in the State of Iowa,\" issued for \"the erection of a court-house\" that \"was never constructed.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Curtis v. Loether": {
+    "place_name": "Milwaukee, Wisconsin",
+    "lat": 43.038648,
+    "lng": -87.909075,
+    "precision": "town",
+    "source_file": "civil_procedure/480-84",
+    "evidence": "Petitioner claimed \"respondents, who are white, had refused to rent an apartment to her because of her race.\"",
+    "notes": "The excerpt doesn't name the city. Milwaukee comes from the reported case: Rogers v. Loether, 312 F. Supp. 1008 (E.D. Wis. 1970) (Civ. A. No. 69-C-524, plaintiff represented by Milwaukee Legal Services; defendants Leroy and Mariane Loether and Mrs. Anthony Perez), aff'd, 467 F.2d 1110 (7th Cir. 1972). Neither of those opinions nor the Supreme Court's gives the apartment's address, and no news coverage was found, so the pin stays at Milwaukee.",
+    "located_at": "2026-10-24"
+  },
+  "Daly v. Bergstedt": {
+    "place_name": "Duffy Brothers store, Rosemount, Minnesota",
+    "lat": 44.739187,
+    "lng": -93.12611,
+    "precision": "town",
+    "source_file": "torts/579-653",
+    "evidence": "Duffy Brothers \"operated a grocery and general retail merchandise store in the village of Rosemount\"; Mrs. Daly tripped over molding left in the aisle. |",
+    "located_at": "2026-10-17"
+  },
+  "DeFontes v. Dell, Inc., Supreme Court of Rhode Island, 984 A.2d 1061 (2009), Chief Justice Williams (ret.)": {
+    "place_name": "Rhode Island",
+    "lat": 41.823989,
+    "lng": -71.412834,
+    "precision": "state",
+    "source_file": "contracts/CB pp 181-208",
+    "evidence": "Rhode Island purchasers of Dell computers bought by catalog or online, who claimed service contracts \"were not taxable within the State of Rhode Island.\"",
+    "notes": "Sales were remote, so the pin is placed by state.",
+    "located_at": "2026-10-17"
+  },
+  "Delair v. McAdoo, Supreme Court of Pennsylvania, 1936": {
+    "place_name": "Pennsylvania",
+    "lat": 40.9,
+    "lng": -77.8,
+    "precision": "state",
+    "source_file": "torts/142-206",
+    "evidence": "\"As defendant drew alongside of plaintiff, the left rear tire of his car blew out, causing it to swerve and come into contact with the plaintiff's car.\"",
+    "notes": "No place is given.",
+    "located_at": "2026-10-17"
+  },
+  "Dempsey v. Addison Crane Co., 247 F.Supp. 584 (D.D.C. 1965), Holtzoff, District Judge": {
+    "place_name": "12th & E Streets NW, Washington, D.C.",
+    "lat": 38.8965,
+    "lng": -77.028,
+    "precision": "address",
+    "source_file": "torts/206-277",
+    "evidence": "\"a pile driver employed on a construction project at the corner of 12th and E Streets in the Northwest section of Washington.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Dickens v. Puryear": {
+    "place_name": "Rural Johnston County, North Carolina",
+    "lat": 35.5112,
+    "lng": -78.346102,
+    "precision": "county",
+    "source_file": "torts/40-88.txt",
+    "evidence": "\"defendants ... lured plaintiff into rural Johnston County, North Carolina,\" where he was beaten and handcuffed to farm machinery.",
+    "notes": "The pin is at the county seat.",
+    "located_at": "2026-10-17"
+  },
+  "Dioguardi v. Durning, 139 F.2d 774 (2d Cir. 1944)": {
+    "place_name": "Collector of Customs, Port of New York (U.S. Custom House, Bowling Green)",
+    "lat": 40.704057,
+    "lng": -74.013755,
+    "precision": "building",
+    "source_file": "civil_procedure/182-84",
+    "evidence": "\"grievances against the Collector of Customs at the Port of New York\" over imported Italian tonics that he sold at \"public custom\" on Oct. 9, 1940.",
+    "notes": "The Collector's office was in the Custom House at Bowling Green.",
+    "located_at": "2026-10-17"
+  },
+  "Dodson v. Shrader": {
+    "place_name": "Shrader's Auto Sales (now Southway Auto Sales), Columbia, Tennessee",
+    "lat": 35.5932445,
+    "lng": -87.0389906,
+    "precision": "address",
+    "source_file": "contracts/575-605",
+    "evidence": "\"The Shraders owned and operated Shrader’s Auto Sales in Columbia, Tennessee.",
+    "notes": "The 2125 Carmack Blvd address is where Shrader's Auto Sales (now Southway Auto Sales) is listed in Columbia. Coordinates are Google Maps' marker for that address. The opinion itself does not give the street.",
+    "located_at": "2026-10-17",
+    "address": "2125 Carmack Blvd, Columbia, TN 38401"
+  },
+  "Dohrmann v. Swaney, 2014 IL App (1st) 131524, Illinois Appellate Court, authored by Justice Fitzgerald Smith": {
+    "place_name": "Drake Tower, 179 E. Lake Shore Drive, Chicago",
+    "lat": 41.900551,
+    "lng": -87.62269,
+    "precision": "address",
+    "source_file": "contracts/Dohrmann v Swaney.pdf",
+    "evidence": "\"They lived in the same building, the Drake Tower, a cooperative apartment building, at 179 E. Lake Shore Drive.\"",
+    "notes": "Mrs. Rogers's apartment there was part of what she promised Dohrmann.",
+    "located_at": "2026-10-17"
+  },
+  "Dougherty v. Salt, New York Court of Appeals, 1919, Cardozo, J.": {
+    "place_name": "Brooklyn, New York",
+    "lat": 40.6781784,
+    "lng": -73.9441579,
+    "precision": "town",
+    "source_file": "contracts/CB pp 102-106",
+    "evidence": "\"The aunt was visiting her nephew\" when she signed and handed him a $3,000 note.",
+    "notes": "Neither Cardozo's opinion nor the Appellate Division memorandum (184 A.D. 910) gives a town; the aunt's visit and the $3,000 note are described only as happening while she 'was visiting her nephew.' The only clues are that the appeal came from the Appellate Division's Second Department (Brooklyn, Queens, Staten Island, Long Island, Westchester and the lower Hudson) and that the appellant's counsel was 'of Brooklyn' (227 N.Y. 200). Brooklyn is therefore a plausible but unconfirmed setting; no source identifies the actual home. The pin is Google Maps' marker for Brooklyn.",
+    "located_at": "2026-10-17"
+  },
+  "Doughty v. Turner Manufacturing Co.": {
+    "place_name": "Turner Manufacturing Co. factory, Staffordshire (Wolverhampton), England",
+    "lat": 52.584765,
+    "lng": -2.127567,
+    "precision": "county",
+    "source_file": "torts/653-725",
+    "evidence": "Doughty \"was employed by the defendants ... in their factory\" and was burned when an asbestos-cement cover fell into a bath of molten cyanide (trial at Stafford Assizes).",
+    "notes": "The factory's Wolverhampton location comes from outside knowledge.",
+    "located_at": "2026-10-17"
+  },
+  "Drennan v. Star Paving Co., California Supreme Court, 51 Cal. 2d 409, 333 P.2d 757 (1958)": {
+    "place_name": "Monte Vista Elementary School, 1235 W. Kettering St., Lancaster, California",
+    "lat": 34.699788,
+    "lng": -118.152076,
+    "precision": "building",
+    "source_file": "contracts/CB pp 263-273",
+    "evidence": "\"plaintiff, a licensed general contractor, was preparing a bid on the 'Monte Vista School Job' in the Lancaster school district\" and relied on Star Paving's telephoned bid. |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: The \"Monte Vista School Job\" was Monte Vista Elementary in the Lancaster School District; this pin is the school as it stands today."
+  },
+  "Falzone v. Busch": {
+    "place_name": "New Jersey",
+    "lat": 40.1,
+    "lng": -74.5,
+    "precision": "state",
+    "source_file": "torts/505-540",
+    "evidence": "Charles Falzone \"was standing in a field adjacent to the roadway when he was struck\"; his wife was in their parked car nearby.",
+    "notes": "No place is given.",
+    "located_at": "2026-10-17"
+  },
+  "Farwell v. Keaton": {
+    "place_name": "Wayne County, Michigan",
+    "lat": 42.268241,
+    "lng": -83.284417,
+    "precision": "county",
+    "source_file": "torts/349-424",
+    "evidence": "Farwell was beaten at \"a trailer rental lot,\" then left in his car \"in the driveway\" of his grandparents' home.",
+    "notes": "The town isn't given. Refined: The suit was tried in the Wayne Circuit Court (396 Mich. 281 headnote); no city is named.",
+    "located_at": "2026-10-17"
+  },
+  "Fojtik v. Charter Medical Corp.": {
+    "place_name": "Charter Hospital of Corpus Christi, Texas",
+    "lat": 27.76353,
+    "lng": -97.403319,
+    "precision": "town",
+    "source_file": "torts/40-88.txt",
+    "evidence": "\"a false imprisonment cause of action against Charter arising from his stay at a Charter hospital where he was treated for alcoholism.\"",
+    "notes": "The city isn't given; the pin is at the Thirteenth Court of Appeals (Corpus Christi). Refined: The appellee is captioned \"Charter Medical Corporation, d/b/a Charter Hospital of Corpus Christi\" (Tex. App. No. 13-97-469-CV).",
+    "located_at": "2026-10-17"
+  },
+  "Frigaliment Importing Co. v. B.N.S. International Sales Corp.": {
+    "place_name": "Site of the New York Coliseum (1957 World Trade Fair), Columbus Circle, New York",
+    "lat": 40.7682028,
+    "lng": -73.9825085,
+    "precision": "building",
+    "source_file": "contracts/CB pp 406-418",
+    "evidence": "\"The negotiations leading up to the contracts were conducted in New York between defendant's secretary, Ernest R. Bauer, and a Mr. Stovicek, who was in New York for the Czechoslovak government at the World Trade Fair. A few days after meeting Bauer at the fair, Stovicek telephoned...\"",
+    "notes": "Friendly's opinion says the negotiations were conducted in New York and began when Bauer met Stovicek at the World Trade Fair. The 1957 fair was held April 14-27 at the New York Coliseum, and Stovicek's April 26 cable led to the May 2 contracts. The opinion does not say where the two men met again or where B.N.S.'s office was. The Coliseum was demolished in 2000; the pin is Google Maps' marker for 10 Columbus Circle, the building (formerly Time Warner Center) on its site. The goods were sold 'FAS New York' and found to be stewing chicken on arrival in Switzerland.",
+    "located_at": "2026-10-17",
+    "address": "10 Columbus Cir, New York, NY 10019"
+  },
+  "Fuentes v. Shevin": {
+    "place_name": "Miami, Florida",
+    "lat": 25.774157,
+    "lng": -80.193597,
+    "precision": "town",
+    "source_file": "civil_procedure/104-05",
+    "evidence": "This document only contains the note on Rule 65 TROs that mentions Fuentes; it has no facts.",
+    "notes": "From the reported case: Margarita Fuentes bought a stove and stereo from Firestone on installment, and a Dade County deputy seized them under a writ of replevin in Miami.",
+    "located_at": "2026-10-17"
+  },
+  "Fuentes v. Shevin, 407 U.S. 67 (1972)": {
+    "place_name": "Fuentes's home, Miami (Dade County), Florida",
+    "lat": 25.774157,
+    "lng": -80.193597,
+    "precision": "town",
+    "source_file": "civil_procedure/82-95",
+    "evidence": "\"Later the same day, a local deputy sheriff and an agent of Firestone went to Mrs. Fuentes' home and seized the stove and stereo.\" (Fuentes is described only as \"a resident of Florida.\")",
+    "notes": "The casebook names no city. The district court opinion (Fuentes v. Faircloth, 317 F. Supp. 954, S.D. Fla. 1970) says Firestone filed in \"the Small Claims Court of Dade County, Florida\" and a Dade County deputy seized the goods on Sept. 1969; a 1972 law-review note says she bought the stove from \"a Miami, Florida, outlet\" of Firestone. No source gives her street address or says which Miami Firestone store sold the goods (the oral-argument transcript calls it only \"this very same Firestone store\"), so the pin stays at Miami.",
+    "located_at": "2026-10-24"
+  },
+  "General Electric Co. v. Joiner": {
+    "place_name": "Water & Light Department, Thomasville, Georgia",
+    "lat": 30.836582,
+    "lng": -83.978781,
+    "precision": "town",
+    "source_file": "torts/579-653",
+    "evidence": "\"Joiner began work as an electrician in the Water & Light Department of Thomasville, Georgia,\" where he handled PCB-contaminated transformer fluid. |",
+    "located_at": "2026-10-17"
+  },
+  "Geysen v. Securitas Security Services, USA, Inc.": {
+    "place_name": "Securitas Security Services USA, East Hartford office, Connecticut",
+    "lat": 41.7638983,
+    "lng": -72.658104,
+    "precision": "building",
+    "source_file": "contracts/CB pp 519-545",
+    "evidence": "\"From 2005 to 2008, the plaintiff worked as a manager, on behalf of the defendant, marketing new and supplemental security services\" (Conn. wage statute claim).",
+    "notes": "Geysen was an at-will business development manager for Securitas from September 2005 to May 2008, but the opinion (Conn. 2016) does not say which Securitas office he worked from. He sued in the Judicial District of Middlesex at Middletown. Securitas lists three Connecticut offices today: East Hartford (255 Pitkin St, 1st Floor), Meriden and Shelton. East Hartford is a best guess (about 20 miles from Middletown); there is no evidence it was his office, or that Securitas had these offices in 2005-08. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-17",
+    "address": "255 Pitkin St 1st Floor, East Hartford, CT 06108"
+  },
+  "Glazer v. Whirlpool Corp. (In re Whirlpool Corp. Front-Loading Washer Products Liability Litigation)": {
+    "place_name": "Ohio",
+    "lat": 40.4173,
+    "lng": -82.9071,
+    "precision": "state",
+    "source_file": "civil_procedure/812-24",
+    "evidence": "\"The named plaintiffs, Gina Glazer and Trina Allison, are Ohio residents\" whose Duet washers grew mold.",
+    "notes": "The class covers Ohio purchasers; the MDL was in N.D. Ohio.",
+    "located_at": "2026-10-17"
+  },
+  "Global Technology & Trading, Inc. v. Tech Mahindra Ltd., U.S. Court of Appeals for the Seventh Circuit, 2015, Easterbrook, Circuit Judge": {
+    "place_name": "Bridge Strategy Group, One North Franklin St., Suite 2100, Chicago, Illinois",
+    "lat": 41.882426,
+    "lng": -87.634978,
+    "precision": "building",
+    "source_file": "civil_procedure/299-302",
+    "evidence": "Global \"orally agreed with Satyam Computer Services to act as a broker in the purchase of Bridge Strategy Group, LLC, a business operating in Illinois.\"",
+    "notes": "The opinion says only that Bridge was \"a business operating in Illinois\"; Satyam's SEC filings describe it as Chicago-based (acquisition announced Jan. 21, 2008). Bridge's own website lists One North Franklin Street, Suite 2100, Chicago, IL 60606 (Wayback Machine capture, Feb. 2011, the earliest available); the pin is that building (PNC Centre) per OpenStreetMap. Its 2008 address isn't independently confirmed, and MapQuest lists a later address at 111 S. Wacker Dr.",
+    "located_at": "2026-10-24"
+  },
+  "Goss v. Allen, Supreme Court of New Jersey, 1976": {
+    "place_name": "Mad River Glen ski area (beginners' slope), Fayston, Vermont",
+    "lat": 44.197566,
+    "lng": -72.923802,
+    "precision": "building",
+    "source_file": "torts/142-206",
+    "evidence": "\"plaintiff ... was serving as a first aid advisor on the ski patrol at the Mad River Glen ski resort in Vermont\"; she was struck 60 feet beyond the end of the beginners' slope. |",
+    "located_at": "2026-10-17"
+  },
+  "Graff v. Beard": {
+    "place_name": "San Antonio area, Texas",
+    "lat": 29.4246,
+    "lng": -98.495141,
+    "precision": "region",
+    "source_file": "torts/349-424",
+    "evidence": "\"Houston Moos consumed alcohol at a party hosted by the Graffs and Hausmons ... En route from the party, Moos collided with a motorcycle.\"",
+    "notes": "No place is given. Refined: The intermediate appeal was Beard v. Graff, 801 S.W.2d 158 (Tex. App.—San Antonio 1990); the crash street isn't named.",
+    "located_at": "2026-10-17"
+  },
+  "Greene v. Lindsey": {
+    "place_name": "Louisville, Kentucky public housing project",
+    "lat": 38.254238,
+    "lng": -85.759407,
+    "precision": "town",
+    "source_file": "civil_procedure/130-35",
+    "evidence": "\"Appellees ... are tenants in a Louisville, Ky., housing project\"; the eviction summonses were posted on their apartment doors. |",
+    "located_at": "2026-10-24",
+    "notes": "The project isn't named in the casebook (civil_procedure/130-35), the Supreme Court opinion, the Sixth Circuit opinion (Lindsey v. Greene, 649 F.2d 425 (1981)), or the Feb. 23, 1982 oral-argument transcript (No. 81-341). The Supreme Court notes the defendants included officials \"charged with responsibility over particular Louisville public housing projects\" (plural), so the tenants may not all have lived in one project. The pin stays at Louisville."
+  },
+  "Greiner v. Greiner, Supreme Court of Kansas, December 6, 1930, Burch, J.": {
+    "place_name": "Tipton, Mitchell County, Kansas (land near Mrs. Greiner's home; Home State Bank of Tipton)",
+    "lat": 39.3404811,
+    "lng": -98.4710407,
+    "precision": "town",
+    "source_file": "contracts/Greiner v Greiner.pdf",
+    "evidence": "\"Mrs. Greiner lived in Mitchell county, and the land in controversy lies in Mitchell county, not far from her home\"; her contract was prepared at the Home State Bank of Tipton. |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion says the land in controversy (a quarter section plus an 80-acre tract) 'lies in Mitchell county, not far from' Mrs. Greiner's home; it gives no legal description, and the land is a private family's farmland. The contract was prepared by the cashier of the Home State Bank of Tipton. Google Maps shows no Home State Bank in Tipton; the only bank there today is The Guaranty State Bank & Trust Co. at 509 Main St, and no source links the two. The pin is that bank's marker on Main Street in the middle of Tipton, used only as the town center, not as the old bank's site."
+  },
+  "Grimes v. Kennedy Krieger Institute, Inc.": {
+    "place_name": "Baltimore, Maryland (KKI lead-abatement study homes)",
+    "lat": 39.290882,
+    "lng": -76.610759,
+    "precision": "town",
+    "source_file": "torts/349-424",
+    "evidence": "KKI, \"associated with Johns Hopkins University,\" ran a lead-paint abatement study requiring landlords \"to rent the premises to families with young children.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Halberstam v. Welch": {
+    "place_name": "Halberstam home, the Palisades, Northwest Washington, D.C.",
+    "lat": 38.928314,
+    "lng": -77.102675,
+    "precision": "town",
+    "source_file": "torts/40-88.txt",
+    "evidence": "\"Welch shot Halberstam during the course of a burglary of Halberstam's home on December 5, 1980,\" after a burglary campaign that \"terrorized the Washington area.\" |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: Contemporary accounts (WETA \"Running Down the Ghost Burglar\") place Dr. Halberstam's house in the Palisades neighborhood of Northwest Washington; the street address isn't confirmed."
+  },
+  "Haley v. London Electricity Board, House of Lords, 1964": {
+    "place_name": "South East London, England",
+    "lat": 51.46,
+    "lng": -0.01,
+    "precision": "region",
+    "source_file": "torts/142-206",
+    "evidence": "\"He lived in a street in South East London\"; 50 yards from his house he tripped over a punner left at the end of a trench.",
+    "notes": "The street isn't named.",
+    "located_at": "2026-10-17"
+  },
+  "Hamer v. Sidway, New York Court of Appeals, 1891": {
+    "place_name": "Buffalo, New York",
+    "lat": 42.8869004,
+    "lng": -78.8788896,
+    "precision": "town",
+    "source_file": "contracts/CB pp 87-93.txt",
+    "evidence": "The promise was made at the golden-wedding celebration of the nephew's grandparents. The uncle's confirming letter is headed \"Buffalo, Feb. 6, 1875.\"",
+    "notes": "The opinion says the promise was made on March 20, 1869, at the celebration of the golden wedding of Samuel Story and his wife (the uncle's parents and the nephew's grandparents), but does not say where it was held, and no source names the place or Samuel Story's home (the case came up from the Fourth Judicial Department, western New York). The uncle's later letter is headed 'Buffalo, Feb. 6, 1875,' so the pin is Google Maps' marker for Buffalo, where the uncle lived, not where the promise was made.",
+    "located_at": "2026-10-17"
+  },
+  "Harlow & Jones, Inc. v. Advance Steel Co., United States District Court, E.D. Michigan, Southern Division, Nov. 30, 1976, Feikens, J.": {
+    "place_name": "Advance Steel Company's Detroit warehouse, 10000 French Rd, Detroit, Michigan",
+    "lat": 42.4022071,
+    "lng": -83.0016502,
+    "precision": "building",
+    "source_file": "contracts/Harlow And Jones Inc v Advance Steel Co.pdf",
+    "evidence": "The steel \"was shipped from Antwerp on November 14, 1974, and arrived in Detroit on November 27, 1974\"; Advance (Detroit) rejected it for \"late delivery.\" |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion says the steel 'arrived in Detroit' by ship (from Antwerp via the Great Lakes) and was 'warehoused in Detroit,' but names no dock, terminal or warehouse. Public directory listings give Advance Steel Company (founded 1950; its main office is now at 100 E Big Beaver Rd, Troy) a former or secondary address at 10000 French Rd, Detroit, with a historical local warehouse phone number. Google Maps shows 10000 French Rd as a large industrial building but does not label it Advance Steel. The location is inferred: it is not confirmed that Advance was at that address in 1974 or that the shipment was unloaded or stored there (the ship's berth at the Port of Detroit is separate). Address and coordinates from Google Maps.",
+    "address": "10000 French Rd, Detroit, MI 48213"
+  },
+  "Harvey v. Dow, Maine Supreme Judicial Court, 962 A.2d 322 (2008), Mead, J": {
+    "place_name": "Dow homestead, Corinth, Maine",
+    "lat": 45.003743,
+    "lng": -69.023444,
+    "precision": "town",
+    "source_file": "contracts/CB pp 217-225",
+    "evidence": "\"The Dows own 125 acres of land in Corinth in two adjoining parcels\"; Teresa built her house on the homestead. |",
+    "located_at": "2026-10-17"
+  },
+  "Helling v. Carey, 83 Wn.2d 514 (1974), Hunter, Associate Justice": {
+    "place_name": "Drs. Carey & Laughlin's ophthalmology practice, Seattle, Washington",
+    "lat": 47.603832,
+    "lng": -122.330062,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "Ophthalmologists Carey and Laughlin treated Helling from 1959 to 1968 without testing her eye pressure until she was 32.",
+    "notes": "The office location isn't given; the pin is at Seattle. Refined: Dr. Robert C. Laughlin was a Seattle eye surgeon (Seattle Times obituary, 1990); the office address isn't known.",
+    "located_at": "2026-10-17"
+  },
+  "Hellriegel v. Tholl": {
+    "place_name": "Mount Baker Beach, Lake Washington, Seattle",
+    "lat": 47.58345,
+    "lng": -122.287552,
+    "precision": "address",
+    "source_file": "torts/114-142.txt",
+    "evidence": "Hellriegel \"joined a group of friends and fellow students at the Mount Baker Beach, on Lake Washington, for an afternoon of waterskiing.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Hickman v. Taylor, 329 U.S. 495 (1947)": {
+    "place_name": "Delaware River at Philadelphia",
+    "lat": 39.9526,
+    "lng": -75.1336,
+    "precision": "town",
+    "source_file": "civil_procedure/398-409",
+    "evidence": "\"On February 7, 1943, the tug 'J. M. Taylor' sank while engaged in helping to tow a car float of the Baltimore & Ohio Railroad across the Delaware River at Philadelphia.\"",
+    "notes": "The pin is on the river off Center City; the opinion doesn't give the exact spot.",
+    "located_at": "2026-10-17"
+  },
+  "Hughes v. Lord Advocate": {
+    "place_name": "Russell Road, Edinburgh, Scotland",
+    "lat": 55.943464,
+    "lng": -3.229778,
+    "precision": "address",
+    "source_file": "torts/653-725",
+    "evidence": "\"Post Office employees had opened a manhole in Russell Road, Edinburgh\"; the boys' paraffin lamp fell in and exploded. |",
+    "located_at": "2026-10-17"
+  },
+  "In re Abilify (Aripiprazole) Products Liability Litigation": {
+    "place_name": "U.S. Courthouse (N.D. Fla.), 1 N. Palafox St., Pensacola, Florida",
+    "lat": 30.4133834,
+    "lng": -87.215983,
+    "precision": "forum",
+    "source_file": "civil_procedure/419-29",
+    "evidence": "A dispute over BMS's and Otsuka's privilege logs in MDL No. 3:16-MDL-2734.",
+    "notes": "Nationwide products MDL (No. 3:16-MDL-2734) over a privilege-log dispute, so no single place of injury; the pin is the Northern District of Florida's Pensacola courthouse (Google Maps).",
+    "located_at": "2026-10-24"
+  },
+  "In re Mustafa": {
+    "place_name": "UCLA School of Law, Los Angeles",
+    "lat": 34.07262,
+    "lng": -118.43811,
+    "precision": "building",
+    "source_file": "lawyering_skills_and_strategies/Example Sobin and Mustafa CREAC.docx",
+    "evidence": "\"While in his third year of law school at UCLA, Mustafa embezzled money from the law school's moot court program.\"",
+    "notes": "The source is a CREAC example memo; the bar-admission case was decided in D.C.",
+    "located_at": "2026-10-17"
+  },
+  "In re Sobin": {
+    "place_name": "Uncle's cattle ranch / marijuana farm, Eastern District of California",
+    "lat": 38.58,
+    "lng": -121.49,
+    "precision": "region",
+    "source_file": "lawyering_skills_and_strategies/Example Sobin and Mustafa CREAC.docx",
+    "evidence": "The court held Sobin \"demonstrated through clear and convincing evidence that he possessed the good moral character required to practice law in the District of Columbia.\"",
+    "notes": "The memo doesn't say where Sobin's earlier conduct (the family escort business and marijuana farm) took place, so the pin marks the court that decided his admission. Refined: Per the full opinion (649 A.2d 589), Sobin worked \"on his uncle's cattle ranch\" in California, where the marijuana was grown, and pleaded guilty \"in the United States District Court for the Eastern District of California.\" The ranch isn't located more precisely, so the pin is at Sacramento.",
+    "located_at": "2026-10-17"
+  },
+  "In re Text Messaging Antitrust Litigation (\"Text Messaging I\"), 630 F.3d 622 (7th Cir. 2010), authored by Circuit Judge Posner": {
+    "place_name": "Everett McKinley Dirksen U.S. Courthouse (N.D. Ill.), 219 S. Dearborn St., Chicago, Illinois",
+    "lat": 41.878838,
+    "lng": -87.628965,
+    "precision": "forum",
+    "source_file": "civil_procedure/224-27",
+    "evidence": "\"A class action suit that has been consolidated for pretrial proceedings in the district court in Chicago charges the defendants with conspiring to fix prices of text messaging services.\"",
+    "notes": "Nationwide price-fixing conspiracy; the complaint alleges price exchanges at trade-association meetings and a \"leadership council,\" but the opinion doesn't say where they met. The pin is the MDL court's courthouse.",
+    "located_at": "2026-10-24"
+  },
+  "In re Text Messaging Antitrust Litigation, 630 F.3d 622 (7th Cir. 2010), POSNER, Circuit Judge": {
+    "place_name": "Everett McKinley Dirksen U.S. Courthouse (N.D. Ill.), 219 S. Dearborn St., Chicago, Illinois",
+    "lat": 41.878838,
+    "lng": -87.628965,
+    "precision": "forum",
+    "source_file": "civil_procedure/224-27",
+    "evidence": "\"A class action suit that has been consolidated for pretrial proceedings in the district court in Chicago charges the defendants with conspiring to fix prices of text messaging services.\"",
+    "notes": "Nationwide price-fixing conspiracy; the complaint alleges price exchanges at trade-association meetings and a \"leadership council,\" but the opinion doesn't say where they met. The pin is the MDL court's courthouse.",
+    "located_at": "2026-10-24"
+  },
+  "Izadi v. Machado (Gus) Ford": {
+    "place_name": "Gus Machado Ford, 1200 W. 49th St., Hialeah, Florida",
+    "lat": 25.866524,
+    "lng": -80.306983,
+    "precision": "address",
+    "source_file": "contracts/Izadi v Machado (Gus) Ford Inc.pdf",
+    "evidence": "An ad \"placed by the appellee in the February 21, 1988 edition of the Miami Herald\"; Izadi tried to buy the Ranger by tendering $3,595 plus a trade-in.",
+    "notes": "The dealership's address comes from outside knowledge; it's assumed to be the same site in 1988.",
+    "located_at": "2026-10-24"
+  },
+  "James Baird Co. v. Gimbel Bros., Inc., United States Court of Appeals, 64 F.2d 344 (2d Cir. 1933)": {
+    "place_name": "Harrisburg, Pennsylvania",
+    "lat": 40.2731911,
+    "lng": -76.8867008,
+    "precision": "town",
+    "source_file": "contracts/CB pp 263-273",
+    "evidence": "L. Hand: \"the Department of Highways in Pennsylvania had asked for bids for the construction of a public building\"; the plaintiff \"put in a bid at Harrisburg\"; the public authorities accepted the bid on December 30.",
+    "located_at": "2026-10-17",
+    "notes": "The opinion says only that Pennsylvania's Department of Highways asked for bids on 'a public building,' that the contractor put in a bid 'at Harrisburg,' and that the specifications were held by a contractor's office in Philadelphia. A contracts casebook describes the project as a government building in Harrisburg, but no source names the building or its address. The pin is Google Maps' marker for Harrisburg, the state capital where the bids were taken."
+  },
+  "John Larkin, Inc. v. Marceau": {
+    "place_name": "Vermont",
+    "lat": 44.0,
+    "lng": -72.7,
+    "precision": "state",
+    "source_file": "torts/40-88.txt",
+    "evidence": "Larkin alleged \"winds carried detectable levels of pesticides onto its property\" from Marceau's adjoining apple orchard.",
+    "notes": "The town isn't given.",
+    "located_at": "2026-10-17"
+  },
+  "Johnson v. City of Shelby, Supreme Court of the United States, 2014": {
+    "place_name": "Shelby Police Department, 305 E. 3rd Ave., Shelby, Mississippi",
+    "lat": 33.94986,
+    "lng": -90.767631,
+    "precision": "building",
+    "source_file": "civil_procedure/221-22",
+    "evidence": "\"Plaintiffs below ... worked as police officers for the city of Shelby, Mississippi. They allege that they were fired by the city's board of aldermen.\" |",
+    "located_at": "2026-10-24",
+    "notes": "The plaintiffs were Shelby police officers fired by the board of aldermen. The pin is the Shelby Police Department at 305 E. 3rd Ave.; coordinates are from OpenStreetMap's 'Shelby Police Station' on E. 3rd Ave."
+  },
+  "Jones v. Flowers": {
+    "place_name": "717 North Bryan Street, Little Rock, Arkansas",
+    "lat": 34.7586867,
+    "lng": -92.3528983,
+    "precision": "address",
+    "source_file": "civil_procedure/136-45",
+    "evidence": "\"In 1967, petitioner Gary Jones purchased a house at 717 North Bryan Street in Little Rock, Arkansas.\" |",
+    "notes": "The pin is 717 N. Bryan St., Little Rock, AR 72205, at the coordinates Google Maps gives for that address.",
+    "located_at": "2026-10-24"
+  },
+  "Katz v. Danny Dare, Inc., Missouri Court of Appeals, 1980, Turnage, Presiding Judge": {
+    "place_name": "Kansas City, Missouri",
+    "lat": 39.0997265,
+    "lng": -94.5785667,
+    "precision": "town",
+    "source_file": "contracts/CB pp 224-243",
+    "evidence": "\"Katz was opening a store, operated by Dare ... A man walked in, picked up the bag of money and left ... Katz was struck in the head.\"",
+    "notes": "The opinion (Missouri Court of Appeals, Western District, 610 S.W.2d 121) says only that in February 1973 Katz 'was opening a store, operated by Dare' when a man took a bag of money from the counter and struck him; it names no street, mall or town. Counsel for both sides were in Kansas City. Missouri Secretary of State records show Danny Dare, Inc. (later renamed Danny Dare Boys Wear, Inc., then D D Duckeree, Inc.; charter 68975, forfeited), formed in 1946, with a registered office in Kansas City. That is a corporate office address, not shown to be the store. A Nebraska news item reports that a 'Danny Dare Inc.' children's-clothing manufacturer in Auburn, Nebraska closed in 1985, which suggests the company had outlets beyond Kansas City. The pin is Google Maps' marker for Kansas City, MO; the store itself is not identified.",
+    "located_at": "2026-10-17"
+  },
+  "King v. Trustees of Boston University, Supreme Judicial Court of Massachusetts, 1995, Abrams, Justice": {
+    "place_name": "Boston University library (Mugar Memorial Library), Boston",
+    "lat": 42.351012,
+    "lng": -71.107992,
+    "precision": "building",
+    "source_file": "contracts/CB pp 224-243",
+    "evidence": "Dr. King's papers \"have been housed in BU's library's special collection since they were delivered to BU at Dr. King's request in July, 1964.\"",
+    "notes": "His letter was sent from 563 Johnson Ave. NE, Atlanta.",
+    "located_at": "2026-10-17"
+  },
+  "Kingston v. Chicago & Northwest Railway Company": {
+    "place_name": "Kingston's landing (cedar yard), LaFortune's spur, about 2 miles west of Bonita, Wisconsin",
+    "lat": 45.1197,
+    "lng": -88.498,
+    "precision": "address",
+    "source_file": "torts/579-653",
+    "evidence": "Two forest fires, one set by locomotive sparks, \"united in a region about 940 feet north of the railroad track\" and burned plaintiff's landing.",
+    "notes": "No place is given. Refined: The full opinion (191 Wis. 610) places the landing on \"LaFortune's spur ... on the branch about two miles west of Bonita\" on the Gillett–Saunders line.",
+    "located_at": "2026-10-17"
+  },
+  "Kirksey v. Kirksey, Alabama Supreme Court, 1845": {
+    "place_name": "Talladega County, Alabama",
+    "lat": 33.396708,
+    "lng": -86.159714,
+    "precision": "county",
+    "source_file": "contracts/CB pp 215-217",
+    "evidence": "\"The defendant resided in Talladega county, some sixty, or seventy miles off\"; she moved to his residence, where he housed her and then evicted her. |",
+    "located_at": "2026-10-17"
+  },
+  "Lee v. Hansberry (reported in the U.S. Supreme Court as Hansberry v. Lee)": {
+    "place_name": "Hansberry house, 6140 S. Rhodes Ave., Washington Park, Chicago",
+    "lat": 41.782749,
+    "lng": -87.612357,
+    "precision": "address",
+    "source_file": "civil_procedure/789-94",
+    "evidence": "Suit \"to enjoin the breach by petitioners of an agreement restricting the use of land within a described area of the City of Chicago\"; the Hansberrys \"acquired and are occupying land in the restricted area.\"",
+    "notes": "The opinion gives only the restricted area. The house address comes from the Hansberry House landmark designation.",
+    "located_at": "2026-10-17"
+  },
+  "Leibel v. Raynor Manufacturing Co., Kentucky Court of Appeals, 1978, Opinion by Howerton, J.": {
+    "place_name": "Leibel's Raynor dealer-distributorship, Lexington, Kentucky",
+    "lat": 38.0389091,
+    "lng": -84.5152662,
+    "precision": "town",
+    "source_file": "contracts/CB pp 485-496",
+    "evidence": "An exclusive dealership for Raynor garage doors \"in a territory extending for a 50-mile radius from Lexington, Kentucky.\" |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion (Ky. Ct. App., 571 S.W.2d 640) says only that, under an oral agreement of about March 1, 1974, Leibel was to be Raynor Manufacturing's exclusive dealer-distributor for garage doors in a 50-mile radius from Lexington, and that he borrowed money for inventory and 'the rental of storage and office space.' It gives no address, and no record of the business name or its 1970s premises is available. Raynor's own plant is in Dixon, Illinois. The pin is Google Maps' marker for Lexington, KY."
+  },
+  "Leichtman v. WLW Jacor Comms.": {
+    "place_name": "WLW studios, 1111 St. Gregory St., Mount Adams, Cincinnati",
+    "lat": 39.108198,
+    "lng": -84.497801,
+    "precision": "building",
+    "source_file": "torts/40-88.txt",
+    "evidence": "\"while he was in the studio, Furman ... lit a cigar and repeatedly blew smoke in Leichtman's face.\" |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: Before moving to Kenwood, WLW and its sister stations broadcast from 1111 St. Gregory Street in Mount Adams (Fybush.com retrospective); that's probably the studio in the 1994 incident."
+  },
+  "Liberty Mutual Insurance Co. v. Wetzel": {
+    "place_name": "Liberty Mutual's Pittsburgh claims office, Pittsburgh, Pennsylvania",
+    "lat": 40.440697,
+    "lng": -80.002567,
+    "precision": "town",
+    "source_file": "civil_procedure/678-82",
+    "evidence": "Employees sued \"in the United States District Court for the Western District of Pennsylvania,\" alleging that Liberty Mutual's \"employee insurance benefits and maternity leave regulations discriminated against women.\"",
+    "notes": "Sandra Wetzel (hired July 1967) and Mari Ross (hired Sept. 1967) were Claims Representatives in Liberty Mutual's Claims Department (Wetzel v. Liberty Mutual, 372 F. Supp. 1146 (W.D. Pa. 1974)); a 1976 Ohio State Law Journal note says they worked \"in the Pittsburgh office.\" The class covered female technical employees in the claims department nationwide. The office's 1967–72 street address wasn't found, so the pin stays at Pittsburgh.",
+    "located_at": "2026-10-24"
+  },
+  "Locke v. Warner Bros., Inc.": {
+    "place_name": "Warner Bros. Studios, Burbank, California",
+    "lat": 34.148872,
+    "lng": -118.33763,
+    "precision": "building",
+    "source_file": "contracts/CB pp 519-545",
+    "evidence": "Locke's development deal \"with Warner, dated November 27, 1990\"; Warner allegedly refused to work with her. |",
+    "located_at": "2026-10-17"
+  },
+  "Lonergan v Scolnick": {
+    "place_name": "Joshua Tree, California (40-acre tract)",
+    "lat": 34.123375,
+    "lng": -116.312866,
+    "precision": "town",
+    "source_file": "contracts/CB pp 35-51",
+    "evidence": "The ad: \"Joshua Tree vic. 40 acres, . . . need cash, will sacrifice.\" The contract was negotiated by letter between New York and Los Angeles. |",
+    "located_at": "2026-10-17"
+  },
+  "Long v. Provide Commerce, Inc., California Court of Appeal (2016), Jones, J.": {
+    "place_name": "California",
+    "lat": 36.7,
+    "lng": -119.4,
+    "precision": "state",
+    "source_file": "contracts/CB pp 181-208",
+    "evidence": "\"a putative class of California consumers who purchased flower arrangements through Provide's Web site, ProFlowers.com.\"",
+    "notes": "The purchase was made online.",
+    "located_at": "2026-10-17"
+  },
+  "Lucy v. Zehmer": {
+    "place_name": "Zehmer's restaurant, filling station and motor court (\"Ye Olde Virginnie Inn\"), McKenney, Virginia",
+    "lat": 36.9845497,
+    "lng": -77.7136967,
+    "precision": "address",
+    "source_file": "contracts/Lucy v Zehmer.pdf",
+    "evidence": "Lucy went \"to McKenney, where Zehmer lived and operated a restaurant\"; Zehmer wrote the agreement to sell the Ferguson farm \"on the back of\" a restaurant check.",
+    "notes": "The opinion places the December 20, 1952 meeting at Zehmer's restaurant, filling station and motor court in McKenney (Dinwiddie County). Online summaries identify that restaurant as 20918 Boydton Plank Road, today a private home for adults; no deed or contemporary map was found to confirm the street address. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-17",
+    "address": "20918 Boydton Plank Rd, McKenney, VA 23872"
+  },
+  "Maldonado v. Southern Pacific Transportation Company": {
+    "place_name": "Picacho, Arizona",
+    "lat": 32.716176,
+    "lng": -111.495397,
+    "precision": "town",
+    "source_file": "torts/349-424",
+    "evidence": "\"appellant, a Mexican citizen, tried to board a Southern Pacific freight train as it was passing through Picacho, Arizona.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Mancia v. Mayflower Textile Services Co., 253 F.R.D. 354 (D. Md. 2008); Paul W. Grimm, Chief United States Magistrate Judge": {
+    "place_name": "Mayflower Textile Services laundry plant, 1350 Brass Mill Rd., Belcamp, Maryland",
+    "lat": 39.4832396,
+    "lng": -76.2358944,
+    "precision": "building",
+    "source_file": "civil_procedure/348-60",
+    "evidence": "An FLSA overtime action by workers at \"Defendant Mayflower's place of business\" (D. Md.).",
+    "notes": "The opinion gives no address. American Laundry News places Mayflower Textile Services' Maryland plant in Belcamp, and Google Maps lists 1350 Brass Mill Rd., Belcamp, MD 21017 for it; the pin is Google Maps' coordinates for that address.",
+    "located_at": "2026-10-24"
+  },
+  "Martin v. Herzog, 228 N.Y. 164 (1920), Cardozo, J.": {
+    "place_name": "Highway near Tarrytown, New York",
+    "lat": 41.076208,
+    "lng": -73.858746,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "\"Plaintiff and her husband, while driving toward Tarrytown in a buggy on the night of August 21, 1915, were struck by the defendant's automobile.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574 (1986), U.S. Supreme Court": {
+    "place_name": "United States television market",
+    "lat": 39.8283,
+    "lng": -98.5795,
+    "precision": "country",
+    "source_file": "civil_procedure/578-81",
+    "evidence": "American TV makers alleged a predatory-pricing conspiracy by Japanese manufacturers \"to fix prices of the televisions they sold in the United States.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Matsuyama v. Birnbaum": {
+    "place_name": "Dedham Medical Associates, 1 Lyons St., Dedham, Massachusetts",
+    "lat": 42.266474,
+    "lng": -71.206939,
+    "precision": "building",
+    "source_file": "torts/579-653",
+    "evidence": "\"Dr. Neil S. Birnbaum, a board-certified internist ... became the primary care physician of the decedent, Kimiyoshi Matsuyama,\" and misdiagnosed him.",
+    "notes": "The office location isn't given. Refined: Dr. Birnbaum practiced at Dedham Medical Associates, Inc., a co-defendant (case summaries; the SJC caption lists Norfolk County).",
+    "located_at": "2026-10-17"
+  },
+  "McCann v. Wal-Mart Stores": {
+    "place_name": "Wal-Mart, 900 Stillwater Ave., Bangor, Maine",
+    "lat": 44.84015,
+    "lng": -68.749408,
+    "precision": "building",
+    "source_file": "torts/40-88.txt",
+    "evidence": "The McCanns \"were shopping at the Wal-Mart store in Bangor, Maine\" when employees stopped them at the exit. |",
+    "located_at": "2026-10-24",
+    "notes": "This is Bangor's Walmart today. The opinion doesn't give the address, so it's assumed to be the same store."
+  },
+  "McCormick v. Kopmann, Illinois Appellate Court, 1959, Presiding Justice Reynolds": {
+    "place_name": "Main Street, Gifford, Illinois",
+    "lat": 40.305939,
+    "lng": -88.021372,
+    "precision": "address",
+    "source_file": "civil_procedure/254-58",
+    "evidence": "\"On the evening of November 21, 1956, Lewis McCormick was killed on Main Street in Gifford, Illinois, when a truck being operated by defendant Lorence Kopmann collided with the automobile which McCormick was driving.\"",
+    "notes": "The dram shops were in Gifford and Penfield.",
+    "located_at": "2026-10-17"
+  },
+  "Miller v. Kennedy, Court of Appeals of Washington, Division 1, 1974 (Callow, J.)": {
+    "place_name": "Tacoma, Washington",
+    "lat": 47.245501,
+    "lng": -122.438329,
+    "precision": "town",
+    "source_file": "torts/278-349",
+    "evidence": "\"Dr. Kennedy is a board certified specialist in internal medicine ... practicing in Tacoma, Washington\"; Miller lost a kidney after a biopsy. |",
+    "located_at": "2026-10-17"
+  },
+  "Mills v. Wyman, Massachusetts Supreme Judicial Court, 1825, Parker, C.J.": {
+    "place_name": "Hartford, Connecticut",
+    "lat": 41.766162,
+    "lng": -72.673273,
+    "precision": "town",
+    "source_file": "contracts/CB pp 317-330",
+    "evidence": "Levi Wyman, \"being suddenly taken sick at Hartford, and being poor and in distress, was relieved by the plaintiff\"; his father, in Shrewsbury, Mass., later promised to pay. |",
+    "located_at": "2026-10-17"
+  },
+  "Mitchill v. Lath": {
+    "place_name": "Schenectady, New York (hometown of Lieutenant-Governor Lunn, whose land lay across the road from the Laths' farm)",
+    "lat": 42.8143509,
+    "lng": -73.938742,
+    "precision": "town",
+    "source_file": "247 N.Y. 377 (1928), read on CourtListener",
+    "evidence": "\"In the fall of 1923 the Laths owned a farm. Across the road, on land belonging to Lieutenant-Governor Lunn, they had an ice house which they might remove.\" Mitchill \"looked over the land with a view to its purchase\" and the Laths promised \"to remove the said ice house in the spring of 1924.\"",
+    "notes": "The opinion gives no town: it says only that the ice house stood 'across the road, on land belonging to Lieutenant-Governor Lunn' from the Laths' farm, and the case came up from the Second Department, which does not include Schenectady, so the farm may well be elsewhere. The pin is placed in Schenectady, the town where Lieutenant-Governor George R. Lunn lived (he was pastor there from 1904 and mayor 1911-1913 and 1919-1923). No source names the farm's town. The pin is Google Maps' marker for Schenectady.",
+    "located_at": "2026-10-17"
+  },
+  "Mohawk Industries, Inc. v. Carpenter": {
+    "place_name": "Mohawk Industries headquarters, 160 S. Industrial Blvd., Calhoun, Georgia",
+    "lat": 34.4725117,
+    "lng": -84.9435057,
+    "precision": "building",
+    "source_file": "civil_procedure/688-98",
+    "evidence": "Carpenter was \"a former shift supervisor at a Mohawk manufacturing facility\" who was fired after reporting that Mohawk employed undocumented immigrants (N.D. Ga.).",
+    "notes": "The opinion does not name Carpenter's plant; he was a shift supervisor at 'a Mohawk manufacturing facility.' The pin is Mohawk's Calhoun headquarters at 160 S. Industrial Blvd. (Google Maps coordinates), not a confirmed workplace.",
+    "located_at": "2026-10-24"
+  },
+  "Morejon v. Rais Construction Company, Court of Appeals of New York, 2006 (Rosenblatt, J.)": {
+    "place_name": "Kleinman residence, Nassau County, New York",
+    "lat": 40.735299,
+    "lng": -73.561578,
+    "precision": "county",
+    "source_file": "torts/278-349",
+    "evidence": "A job Rais was doing \"at the residence owned by Barry and Susan Kleinman in Nassau County\"; a roll of roofing fell and hit Pardo. |",
+    "located_at": "2026-10-17"
+  },
+  "Morin Building Products Co. v. Baystone Construction, Inc.": {
+    "place_name": "Chevrolet Muncie plant, Muncie, Indiana",
+    "lat": 40.18284,
+    "lng": -85.39979,
+    "precision": "building",
+    "source_file": "contracts/CB pp 496-517",
+    "evidence": "\"General Motors ... hired Baystone Construction, Inc., the defendant, to build an addition to a Chevrolet plant in Muncie, Indiana.\" |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: The Chevrolet Muncie plant lay between 5th and 8th Streets, Elliott St. and Perkins Ave. (40°10'58\"N 85°23'59\"W, per a local-history site); it opened in 1935 and closed in 2006."
+  },
+  "Mullane v. Central Hanover Bank & Trust Co.": {
+    "place_name": "Central Hanover Bank & Trust Co., 70 Broadway, New York",
+    "lat": 40.706888,
+    "lng": -74.012281,
+    "precision": "building",
+    "source_file": "civil_procedure/119-28",
+    "evidence": "Concerns \"notice to beneficiaries on judicial settlement of accounts by the trustee of a common trust fund established under the New York Banking Law.\"",
+    "notes": "The bank's Manhattan location comes from outside knowledge. Refined: Central Hanover's head office was at 70 Broadway (outside knowledge); the common-trust-fund accounting was settled in the Surrogate's Court, New York County.",
+    "located_at": "2026-10-17"
+  },
+  "Nanakuli Paving & Rock Co. v. Shell Oil Co.": {
+    "place_name": "Oahu, Hawaii",
+    "lat": 21.304547,
+    "lng": -157.855676,
+    "precision": "county",
+    "source_file": "contracts/CB pp 454-475",
+    "evidence": "The 1969 asphalt contract priced \"F.O.B. Honolulu\"; \"relations between Shell and Nanakuli on the island of Oahu.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Neely v. Martin K. Eby Construction Co., Inc.": {
+    "place_name": "Titan I Missile Site 725-C, south of Elizabeth, Colorado",
+    "lat": 39.315558,
+    "lng": -104.564529,
+    "precision": "building",
+    "source_file": "civil_procedure/637-42",
+    "evidence": "\"a scaffold platform used in the construction of a missile silo near Elizabeth, Colorado, had proximately caused her father's fatal plunge from the platform.\" |",
+    "located_at": "2026-10-24",
+    "notes": "Titan I Complex 725-C (Lowry AFB, built 1959-60) is the missile site south of Elizabeth, per the Colorado Department of Public Health and Environment and OpenStreetMap."
+  },
+  "Nelson v. Freeland": {
+    "place_name": "Freeland's porch, Guilford County, North Carolina",
+    "lat": 36.072635,
+    "lng": -79.791975,
+    "precision": "county",
+    "source_file": "torts/424-463",
+    "evidence": "\"Nelson, while doing so, tripped over a stick that Freeland had inadvertently left lying on his porch.\"",
+    "notes": "The town isn't given. Refined: The summary judgment was \"entered by Burke, J., ... in Superior Court, Guilford County\" (349 N.C. 615); the pin is at Greensboro.",
+    "located_at": "2026-10-17"
+  },
+  "Normile v. Miller": {
+    "place_name": "Charlotte, North Carolina",
+    "lat": 35.2270768,
+    "lng": -80.8408933,
+    "precision": "town",
+    "source_file": "contracts/CB pp 35-51",
+    "evidence": "\"Defendant Hazel Miller owned real estate located in Charlotte, North Carolina.\" |",
+    "located_at": "2026-10-17",
+    "notes": "The opinion (N.C. 1985) says only that the property was listed for sale on August 4, 1980 with a local realtor and shown the same day; it gives no street, neighborhood or description. The property belonged to a private individual and is not located here. The pin is Google Maps' marker for Charlotte."
+  },
+  "Overseas Tankship (U.K.) Ltd. v. Mort's Dock & Engineering Co.": {
+    "place_name": "Sheerlegs Wharf, Mort Bay, Balmain, Sydney Harbour",
+    "lat": -33.853725,
+    "lng": 151.184055,
+    "precision": "building",
+    "source_file": "torts/653-725",
+    "evidence": "Damage to \"the Sheerlegs Wharf, in Sydney Harbour,\" at \"Morts Bay, Balmain,\" from oil spilled by the Wagon Mound at Caltex Wharf. |",
+    "located_at": "2026-10-17"
+  },
+  "Overseas Tankship (U.K.) Ltd. v. The Miller Steamship Co. Pty.": {
+    "place_name": "Sheerlegs Wharf, Mort Bay, Balmain, Sydney Harbour",
+    "lat": -33.853725,
+    "lng": 151.184055,
+    "precision": "building",
+    "source_file": "torts/653-725",
+    "evidence": "The vessels Corrimal and Audrey D \"were then at Sheerlegs Wharf, Morts Bay, in Sydney Harbour undergoing repairs\" when the oil caught fire. |",
+    "located_at": "2026-10-17"
+  },
+  "Palsgraf v. Long Island Railroad — Part I, Court of Appeals of New York, 1928 (Cardozo, C.J.; Andrews, J., dissenting)": {
+    "place_name": "LIRR East New York station, Brooklyn",
+    "lat": 40.6783,
+    "lng": -73.9036,
+    "precision": "building",
+    "source_file": "torts/278-349",
+    "evidence": "\"Plaintiff was standing on a platform of defendant's railroad after buying a ticket to go to Rockaway Beach\"; dropped fireworks exploded and knocked scales onto her.",
+    "notes": "The opinion doesn't name the station. East New York comes from the trial record.",
+    "located_at": "2026-10-17"
+  },
+  "Perez v. Gordon & Wong Law Group, P.C., U.S. District Court for the Northern District of California, Mar. 26, 2012, by Judge Lucy H. Koh": {
+    "place_name": "Santa Clara County Superior Court (Downtown Superior Court), 191 N. First St., San Jose, California",
+    "lat": 37.338173,
+    "lng": -121.8933925,
+    "precision": "building",
+    "source_file": "civil_procedure/292-95",
+    "evidence": "\"Defendants unlawfully attempted to collect a debt by filing a lawsuit on behalf of Discover Bank against Plaintiff in the Superior Court of California, Santa Clara County.\" |",
+    "located_at": "2026-10-24",
+    "notes": "The debt-collection suit was filed in the Superior Court of California, Santa Clara County. The pin is the court's Downtown courthouse at 191 N. First St. (Google Maps coordinates); the opinion does not say which Santa Clara County courthouse heard the collection case."
+  },
+  "Perry v. S.N., 973 S.W.2d 301 (Tex. 1998), Phillips, Chief Justice": {
+    "place_name": "Fran's Day Care, Oak Hill, Austin, Texas",
+    "lat": 30.23431,
+    "lng": -97.86877,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "\"children at a day care center operated by Francis Keller and her husband Daniel Keller\" (the court of appeals was in Austin).",
+    "notes": "The center's Austin-area (Oak Hill) location comes from outside knowledge. Refined: This is the Kellers' home day care at the center of the Oak Hill ritual-abuse case (Wikipedia, \"Oak Hill satanic ritual abuse trial\"); the Kellers were later declared actually innocent. The pin is at Oak Hill; the house address isn't confirmed.",
+    "located_at": "2026-10-17"
+  },
+  "Petition of Kinsman Transit Co.": {
+    "place_name": "Michigan Avenue lift bridge, Buffalo River, Buffalo",
+    "lat": 42.871585,
+    "lng": -78.872829,
+    "precision": "building",
+    "source_file": "torts/653-725",
+    "evidence": "The Shiras broke loose from the Concrete Elevator dock and drifted down the Buffalo River to \"a lift bridge at Michigan Avenue,\" jamming against it and causing flooding.",
+    "notes": "The Shiras was moored about three miles upstream of the bridge.",
+    "located_at": "2026-10-17"
+  },
+  "Pitre v. Employers Liability Assurance Corp., 234 So.2d 847 (La. Ct. App. 1st Cir. 1970), Landry, Judge": {
+    "place_name": "Fireman's Fair, Thibodaux, Louisiana",
+    "lat": 29.795763,
+    "lng": -90.822871,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "The accident happened \"at the baseball concession stand operated at the annual Fireman's Fair conducted upon public school grounds in the City of Thibodaux.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Ploof v. Putnam, Supreme Court of Vermont, 1908, Munson, J.": {
+    "place_name": "Island in Lake Champlain, Vermont",
+    "lat": 44.53,
+    "lng": -73.33,
+    "precision": "region",
+    "source_file": "torts/142-206",
+    "evidence": "\"the defendant was the owner of a certain island in Lake Champlain, and of a certain dock attached thereto\"; his servant unmoored Ploof's sloop in a storm.",
+    "notes": "The island isn't named; the pin is in the lake.",
+    "located_at": "2026-10-17"
+  },
+  "Plowman v. Indian Refining Co., United States District Court, 20 F. Supp. 1 (E.D. Ill. 1937), Lindley, District Judge": {
+    "place_name": "Former Indian Refining Co. refinery site (Indian Refinery-Texaco Lawrenceville Superfund site), southeast Lawrenceville, Illinois",
+    "lat": 38.71305,
+    "lng": -87.67985,
+    "precision": "region",
+    "source_file": "contracts/CB pp 108-115",
+    "evidence": "District court (20 F. Supp. 1): \"the vice-president and general manager of the refinery plant called the employees, who had rendered long years of service... into his office\" on July 28, 1930; counsel for the plaintiffs were of Lawrenceville, Ill.",
+    "notes": "The opinion says only 'refinery plant,' and its counsel were from Lawrenceville, Illinois. The EPA lists the former Indian Refining Company/Texaco refinery (about 990 acres, 'immediately southeast of Lawrenceville,' bounded on the east by the Embarras River) at One Havoline Street, Lawrenceville, IL 62439. Google Maps places that street address in forest by the river (38.698936, -87.667147), roughly a mile and a half southeast of the plant area, so it is not used here. In Google Maps satellite view, the cleared tract east of Highway 1 and south of the railroad, with old roads, lagoons and a few structures, is the likely former refinery area; the pin is a point on that tract (38.71305, -87.67985). Which part of the 990 acres held the 1930 main office and plant is not confirmed, so the precision is 'region.'",
+    "located_at": "2026-10-17",
+    "address": "1 Havoline St, Lawrenceville, IL 62439 (EPA's address for the site)"
+  },
+  "Pokora v. Wabash Railway Co., 292 U.S. 98 (1934), Mr. Justice Cardozo": {
+    "place_name": "Wabash grade crossing, Springfield, Illinois",
+    "lat": 39.799017,
+    "lng": -89.643957,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "Pokora drove his truck across the Wabash tracks, where boxcars blocked his view, and was struck by a train.",
+    "notes": "The excerpt doesn't name the city. Springfield comes from the reported case. Refined: The full opinion confirms it: Pokora was \"driving his truck across a railway grade crossing in the city of Springfield, Illinois\" (292 U.S. 98).",
+    "located_at": "2026-10-17"
+  },
+  "Pop’s Cones, Inc. v. Resorts International Hotel, Inc., Superior Court of New Jersey, Appellate Division, 307 N.J. Super. 461, 704 A.2d 1321 (1998), Kleiner, J.A.D.": {
+    "place_name": "Resorts Casino Hotel, Atlantic City, New Jersey",
+    "lat": 39.359207,
+    "lng": -74.422115,
+    "precision": "building",
+    "source_file": "contracts/CB pp 273-282",
+    "evidence": "\"Resorts is a casino hotel in Atlantic City that leases retail space along 'prime Boardwalk frontage'\"; Pop's ran a TCBY cart inside Resorts.",
+    "notes": "Pop's gave up its store in nearby Margate.",
+    "located_at": "2026-10-17"
+  },
+  "Portee v. Jaffee": {
+    "place_name": "Newark, New Jersey apartment building",
+    "lat": 40.735657,
+    "lng": -74.172367,
+    "precision": "town",
+    "source_file": "torts/505-540",
+    "evidence": "Guy Portee \"resided with his mother in a Newark apartment building\" and was trapped in its elevator. |",
+    "located_at": "2026-10-17"
+  },
+  "Posecai v. Wal-Mart Stores, Inc": {
+    "place_name": "Sam's Club parking lot, 455 31st St., Kenner, Louisiana",
+    "lat": 30.009636,
+    "lng": -90.263761,
+    "precision": "building",
+    "source_file": "torts/424-463",
+    "evidence": "\"Shirley Posecai brought suit against Sam's Wholesale Club ... in Kenner after she was robbed at gunpoint in the store's parking lot.\" |",
+    "located_at": "2026-10-24",
+    "notes": "This is Kenner's Sam's Club today. The opinion doesn't give the address, so it's assumed to be the 1995 store."
+  },
+  "Price v. E.I. DuPont de Nemours & Co.": {
+    "place_name": "DuPont Chestnut Run facility, Wilmington, Delaware",
+    "lat": 39.753124,
+    "lng": -75.603772,
+    "precision": "building",
+    "source_file": "torts/349-424",
+    "evidence": "Bobby Price \"worked as a maintenance technician for E.I. du Pont de Nemours & Co. at its Chestnut Run facility\" and brought asbestos fibers home to his wife. |",
+    "notes": "The pin is DuPont's Chestnut Run campus off Centre Road, as mapped in OpenStreetMap. Mrs. Price's exposure happened at their home.",
+    "located_at": "2026-10-24"
+  },
+  "Prochazka v. Bee-Three Development, LLC": {
+    "place_name": "Pope County, Arkansas",
+    "lat": 35.278417,
+    "lng": -93.133786,
+    "precision": "county",
+    "source_file": "contracts/CB pp 387-406",
+    "evidence": "The sale of \"a commercial lot\" from the Prochazkas to Bee-Three (Pope County Circuit Court).",
+    "notes": "The pin is at the county seat.",
+    "located_at": "2026-10-17"
+  },
+  "Ray v. William G. Eurice & Bros., Inc.": {
+    "place_name": "Dance Mill Road, Baltimore County, Maryland",
+    "lat": 39.483089,
+    "lng": -76.541583,
+    "precision": "address",
+    "source_file": "contracts/CB pp 1-34",
+    "evidence": "\"Calvin T. Ray and Katherine S. J. Ray, his wife, own a lot on Dance Mill Road in Baltimore County.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Reavis v. Slominski": {
+    "place_name": "Slominski's dental clinic, Falls City, Nebraska",
+    "lat": 40.060811,
+    "lng": -95.601893,
+    "precision": "town",
+    "source_file": "torts/114-142.txt",
+    "evidence": "\"Reavis was employed by Slominski as a receptionist in his dental clinic located in Falls City, Nebraska.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Roberson v. Rochester Folding Box Co.": {
+    "place_name": "Rochester, New York",
+    "lat": 43.157285,
+    "lng": -77.615214,
+    "precision": "town",
+    "source_file": "torts/pp 1-40.txt",
+    "evidence": "About 25,000 prints of her likeness, marked \"Franklin Mills Flour\" and \"Rochester Folding Box Co., Rochester, N.Y.,\" were posted in stores, saloons and other public places. |",
+    "located_at": "2026-10-17"
+  },
+  "Robert R. Tolan v. Jeffrey Wayne Cotton": {
+    "place_name": "Tolan family home, 800 block of Woodstock St., Bellaire, Texas",
+    "lat": 29.698172,
+    "lng": -95.483029,
+    "precision": "address",
+    "source_file": "civil_procedure/Tolan v Cotton.pdf",
+    "evidence": "\"a police officer, was on patrol in Bellaire, Texas\"; \"Tolan was unarmed on his parents' front porch about 15 to 20 feet away from Cotton.\" |",
+    "located_at": "2026-10-24",
+    "notes": "The 800 block of Woodstock comes from news coverage (Wikipedia, \"Shooting of Robbie Tolan\"); the pin is the block, not a specific house."
+  },
+  "Rose v. Board of Election Commissioners for the City of Chicago": {
+    "place_name": "Chicago Board of Election Commissioners, 69 W. Washington St., Chicago",
+    "lat": 41.882943,
+    "lng": -87.629953,
+    "precision": "building",
+    "source_file": "civil_procedure/738-42",
+    "evidence": "\"the Board concluded that Rose had only submitted 414 valid signatures ... the Board ruled that Rose's name would not be placed on the official ballot\" for 7th Ward alderman. |",
+    "located_at": "2026-10-17"
+  },
+  "Rush v. City of Maple Heights": {
+    "place_name": "Schreiber Road, Maple Heights, Ohio",
+    "lat": 41.383845,
+    "lng": -81.590799,
+    "precision": "address",
+    "source_file": "civil_procedure/744-51",
+    "evidence": "\"she was a passenger on a motorcycle ... proceeding in an easterly direction on Schreiber Road within the limits of Maple Heights ... when she was thrown to the ground and injured.\" |",
+    "notes": "OpenStreetMap places today's Schreiber Road just inside Valley View, next to Maple Heights (same ZIP code).",
+    "located_at": "2026-10-17"
+  },
+  "Sateriale v. R.J. Reynolds Tobacco Co.": {
+    "place_name": "California",
+    "lat": 36.7,
+    "lng": -119.4,
+    "precision": "state",
+    "source_file": "contracts/CB pp 52-66",
+    "evidence": "Camel Cash members who \"purchased Camel cigarettes, enrolled in the program and saved their certificates,\" suing under California consumer laws. |",
+    "located_at": "2026-10-17"
+  },
+  "Scott v. Harris, 550 U.S. 372 (2007), U.S. Supreme Court, opinion by Justice Scalia": {
+    "place_name": "Highway 34 (GA-34) at Sullivan Road, Coweta County, Georgia, where the chase began",
+    "lat": 33.4045546,
+    "lng": -84.7070537,
+    "precision": "address",
+    "source_file": "civil_procedure/613-21",
+    "evidence": "Justice Stevens's dissent, n.2: \"...the deputy who recorded his speed was sitting in his patrol car on Highway 34 between Lora Smith Road and Sullivan Road in Coweta County, Georgia\"; Harris \"was on a four-lane portion of Highway 34 when the officer clocked his speed at 73 miles per hour and initiated the chase.\"",
+    "notes": "The majority opinion in the casebook says only 'a Georgia county deputy'; the dissent in the same U.S. Reports opinion names the stretch of Highway 34 where the chase began, between Lora Smith Road and Sullivan Road. The pin is Google Maps' marker for the GA-34 & Sullivan Rd intersection, the end of that stretch. The chase ran nearly 10 miles and ended where Deputy Scott's PIT maneuver crashed Harris's car; the crash site and the shopping center's name are not given, so the pin marks the start of the chase only.",
+    "located_at": "2026-10-17",
+    "address": "GA-34 & Sullivan Rd, Georgia 30265"
+  },
+  "Sherrodd, Inc. v. Morrison-Knudsen Co.": {
+    "place_name": "Forsyth, Montana",
+    "lat": 46.266384,
+    "lng": -106.677812,
+    "precision": "town",
+    "source_file": "contracts/CB pp 454-475",
+    "evidence": "\"earth-moving work involved in the construction of fifty family housing units in Forsyth, Montana, for the Army Corps of Engineers.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Shilkret v. Annapolis Emergency Hospital Association, 276 Md. 187 (1975), Levine, Judge": {
+    "place_name": "Former Anne Arundel General Hospital, Franklin St., Annapolis, Maryland",
+    "lat": 38.976847,
+    "lng": -76.494429,
+    "precision": "building",
+    "source_file": "torts/206-277",
+    "evidence": "\"Mark Alan Shilkret, was born at the Anne Arundel General Hospital (Anne Arundel) on December 22, 1968.\"",
+    "notes": "The hospital has since moved; the pin is on the city. Refined: In 1968 the hospital was on Franklin Street in downtown Annapolis (it moved to Jennifer Road in 2001); the pin is the old Franklin Street campus (outside knowledge).",
+    "located_at": "2026-10-17"
+  },
+  "Shore v. Parklane Hosiery Co., Inc. (captioned on certiorari as Parklane Hosiery Co., Inc. v. Shore)": {
+    "place_name": "Parklane Hosiery Co. headquarters, 1540 Union Turnpike, New Hyde Park, New York",
+    "lat": 40.7536125,
+    "lng": -73.6907606,
+    "precision": "building",
+    "source_file": "civil_procedure/768-73",
+    "evidence": "A class action alleging Parklane \"had issued a materially false and misleading proxy statement in connection with a merger\"; the SEC brought a parallel suit.",
+    "notes": "The suit concerns the proxy statement Parklane issued for its 1974 going-private merger. Standard & Poor's Register (1973) lists Parklane Hosiery Co., Inc. at 1540 Union Turnpike, New Hyde Park, N.Y., and Who's Who in Finance and Industry (1977) places it in New Hyde Park for 1971–74; an earlier listing gives 343 Great Neck Rd., Great Neck. The pin is 1540 Union Tpke. (Google Maps coordinates; today a retail building). Both suits were in S.D.N.Y.",
+    "located_at": "2026-10-24"
+  },
+  "Silas v. Bowen": {
+    "place_name": "Parking lot outside Fort Jackson, Columbia, South Carolina",
+    "lat": 34.041844,
+    "lng": -80.819916,
+    "precision": "town",
+    "source_file": "torts/114-142.txt",
+    "evidence": "The defendant \"operates a parking lot just outside one of the main gate entrances to Fort Jackson.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Sindell v. Abbott Laboratories": {
+    "place_name": "California",
+    "lat": 36.7,
+    "lng": -119.4,
+    "precision": "state",
+    "source_file": "torts/579-653",
+    "evidence": "A DES class action by Judith Sindell \"on behalf of herself and other women similarly situated.\"",
+    "notes": "No place of exposure is given.",
+    "located_at": "2026-10-17"
+  },
+  "Singer v. Marx": {
+    "place_name": "Singer residence, Los Angeles County, California",
+    "lat": 34.0537,
+    "lng": -118.2428,
+    "precision": "county",
+    "source_file": "torts/40-88.txt",
+    "evidence": "\"Tim and Denise were on the front lawn of the Singer residence\" when Tim's rock struck her in the eye.",
+    "notes": "The street isn't given; the appeal was in the Second District (Los Angeles). The pin is at Los Angeles because no street is given.",
+    "located_at": "2026-10-17"
+  },
+  "SodexoMAGIC, LLC v. Drexel University, U.S. District Court for the Eastern District of Pennsylvania, 2018": {
+    "place_name": "Drexel University, Philadelphia",
+    "lat": 39.954533,
+    "lng": -75.186565,
+    "precision": "building",
+    "source_file": "civil_procedure/385-89",
+    "evidence": "A food-service contract dispute between SodexoMAGIC and Drexel; the court reviewed \"internal emails within Drexel and SodexoMAGIC\" for privilege. |",
+    "located_at": "2026-10-17"
+  },
+  "Strauss v. Belle Realty Company": {
+    "place_name": "Apartment building in Queens, New York",
+    "lat": 40.713508,
+    "lng": -73.828313,
+    "precision": "county",
+    "source_file": "torts/349-424",
+    "evidence": "Strauss \"resided in an apartment building in Queens\" and fell on the darkened basement stairs during the 1977 blackout. |",
+    "located_at": "2026-10-17"
+  },
+  "Summers v. Tice": {
+    "place_name": "California (open-range quail hunt)",
+    "lat": 36.7,
+    "lng": -119.4,
+    "precision": "state",
+    "source_file": "torts/579-653",
+    "evidence": "\"plaintiff and the two defendants were hunting quail on the open range\"; both defendants fired toward him.",
+    "notes": "No county is given.",
+    "located_at": "2026-10-17"
+  },
+  "Swanson v. Citibank, N.A., 614 F.3d 400 (7th Cir. 2010)": {
+    "place_name": "Citibank branch, 11 S. LaSalle St., Chicago, Illinois",
+    "lat": 41.881675,
+    "lng": -87.632107,
+    "precision": "building",
+    "source_file": "civil_procedure/228-38",
+    "evidence": "\"Swanson went to a Citibank branch to apply for a home-equity loan\"; an appraiser then valued her home at $170,000.",
+    "notes": "The 7th Circuit opinion says only that Swanson \"went to a Citibank branch.\" Her pro se Amended Complaint (N.D. Ill. No. 1:09-cv-02344, Doc. 21, filed June 29, 2009, ¶ 11) says she \"applied for an Equity loan with Citibank's branch at 11 S. LaSalle Street, Chicago, Illinois 60603,\" where she met loan representative B. Skertich and branch manager June Cimino. The pin is that building (now the Roanoke Building / Residence Inn), per OpenStreetMap. Her home isn't pinned.",
+    "located_at": "2026-10-24"
+  },
+  "Swiney v. Malone Freight Lines, Court of Appeals of Tennessee, 1976 (Goddard, J.; Sanders, J., dissenting)": {
+    "place_name": "U.S. 11-W just north of Bean Station, Grainger County, Tennessee",
+    "lat": 36.343656,
+    "lng": -83.284049,
+    "precision": "town",
+    "source_file": "torts/278-349",
+    "evidence": "Swiney \"was driving ... in a northerly direction on U.S. Highway 11-W in Grainger County just north of Bean Station\" when a truck's wheel came off and hit his car. |",
+    "located_at": "2026-10-17"
+  },
+  "Taylor v. State Farm Mutual Automobile Insurance Co.": {
+    "place_name": "Central Ave. & Maryland Ave., Phoenix, Arizona",
+    "lat": 33.53107,
+    "lng": -112.07404,
+    "precision": "address",
+    "source_file": "contracts/CB pp 441-455",
+    "evidence": "\"This insurance bad faith action arises out of an accident that occurred approximately sixteen years ago\" involving three vehicles.",
+    "notes": "The accident location isn't given; the pin is at Phoenix. Refined: The underlying accident (Ring v. Taylor, 141 Ariz. 56): Anne Ring was eastbound \"on Maryland Avenue in the City of Phoenix\" when Taylor's pickup came north on Central Avenue.",
+    "located_at": "2026-10-17"
+  },
+  "Taylor v. Sturgell": {
+    "place_name": "Federal Aviation Administration HQ, Washington, D.C.",
+    "lat": 38.886865,
+    "lng": -77.022949,
+    "precision": "building",
+    "source_file": "civil_procedure/776-87",
+    "evidence": "FOIA requests to \"the Federal Aviation Administration (FAA) for copies of any technical documents about the F-45.\"",
+    "notes": "Herrick's earlier suit was in D. Wyo.; Taylor sued in D.D.C.",
+    "located_at": "2026-10-17"
+  },
+  "Tedla v. Ellman, 280 N.Y. 124 (1939)": {
+    "place_name": "Sunrise Highway, Islip, New York",
+    "lat": 40.730069,
+    "lng": -73.210727,
+    "precision": "town",
+    "source_file": "torts/206-277",
+    "evidence": "\"walking along 'Sunrise Highway' and wheeling baby carriages containing junk and wood which they had picked up at the incinerator\" of the village of Islip. |",
+    "located_at": "2026-10-17"
+  },
+  "Terry v. Chauffeurs, Teamsters and Helpers, Local No. 391": {
+    "place_name": "McLean Trucking terminal (probable site), 4350 Idlewild Industrial Dr., Winston-Salem, North Carolina",
+    "lat": 36.1549132,
+    "lng": -80.2395411,
+    "precision": "building",
+    "source_file": "civil_procedure/484-91",
+    "evidence": "\"McLean continued to engage in periodic layoffs and recalls of the workers at the Winston-Salem terminal.\" |",
+    "located_at": "2026-10-24",
+    "notes": "The opinion refers to 'the Winston-Salem terminal' of McLean Trucking (built 1954, once called the largest truck terminal in the world, per NCpedia). The pin is 4350 Idlewild Industrial Dr. (Google Maps coordinates), a truck terminal now used by other carriers. No source ties this address to McLean, which closed in 1986."
+  },
+  "Thompson v. County of Alameda": {
+    "place_name": "Piedmont, California",
+    "lat": 37.824371,
+    "lng": -122.231635,
+    "precision": "town",
+    "source_file": "torts/349-424",
+    "evidence": "Plaintiffs \"lived in the City of Piedmont, a few doors from the residence of the mother of James F.\"; their son was killed in that home's garage. |",
+    "located_at": "2026-10-17"
+  },
+  "Thompson v. Kaczinski, Supreme Court of Iowa": {
+    "place_name": "Gravel road in rural Madison County near Earlham, Iowa",
+    "lat": 41.491444,
+    "lng": -94.122914,
+    "precision": "town",
+    "source_file": "torts/278-349",
+    "evidence": "The defendants \"resided in rural Madison County, near Earlham, on property abutting a gravel road\"; wind blew their trampoline onto the road. |",
+    "located_at": "2026-10-17"
+  },
+  "Thompson v. Libby": {
+    "place_name": "Mississippi River at the Minneapolis log boom (Boom Island), Minneapolis, Minnesota",
+    "lat": 44.991464,
+    "lng": -93.271612,
+    "precision": "region",
+    "source_file": "contracts/CB pp 430-441",
+    "evidence": "Minnesota Supreme Court, 34 Minn. 374: the plaintiff owned \"a quantity of logs marked 'H.,' cut in the winters of 1882 and 1883, and lying in the Mississippi river, or on its banks, above Minneapolis\"; the written agreement, headed \"Hastings, Minn., June 1, 1883,\" sold them to Libby, of Hastings, \"for ten dollars a thousand feet, boom scale at Minneapolis.\"",
+    "located_at": "2026-10-17",
+    "notes": "Hastings is only where the agreement was written and where the buyer lived; the logs were not there. The opinion puts them in the Mississippi River, or on its banks, 'above Minneapolis' (upstream), to be scaled at the boom at Minneapolis, and gives no more precise stretch. The pin is on the river itself: the Mississippi channel just west of Boom Island, the historic site of Minneapolis's log booms (44.991464, -93.271612, a point in the water). It marks the boom scale point, not the stretch where the logs lay before delivery."
+  },
+  "Uhr v. East Greenbush Central School District": {
+    "place_name": "Goff Middle School, East Greenbush, New York",
+    "lat": 42.589852,
+    "lng": -73.711021,
+    "precision": "building",
+    "source_file": "torts/349-424",
+    "evidence": "\"the infant plaintiff was a seventh grade student at the Goff Middle School\"; she was not screened for scoliosis the next year.",
+    "notes": "She was diagnosed later at Columbia High School.",
+    "located_at": "2026-10-17"
+  },
+  "United States v. Carroll Towing Co., 159 F.2d 169 (2d Cir. 1947), L. Hand, Circuit Judge": {
+    "place_name": "Pier 51, North (Hudson) River, Manhattan",
+    "lat": 40.738203,
+    "lng": -74.010772,
+    "precision": "building",
+    "source_file": "torts/206-277",
+    "evidence": "\"These appeals concern the sinking of the barge, 'Anna C,' on January 4, 1944, off Pier 51, North River.\" |",
+    "located_at": "2026-10-17"
+  },
+  "United States v. Microsoft Corp. (Microsoft I)": {
+    "place_name": "Microsoft datacenter, Grange Castle, Clondalkin, Dublin, Ireland",
+    "lat": 53.321323,
+    "lng": -6.451738,
+    "precision": "building",
+    "source_file": "civil_procedure/701-04",
+    "evidence": "Microsoft \"moved to vacate the Warrant to the extent that the Warrant authorized a search and seizure of content stored in a datacenter in Dublin, Ireland.\" |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: Microsoft's Dublin datacenter (the one in the warrant litigation) is at Grange Castle Business Park (outside knowledge; OpenStreetMap labels it \"Microsoft Grange Castle\")."
+  },
+  "United States v. Microsoft Corp. (Microsoft II)": {
+    "place_name": "Microsoft datacenter, Grange Castle, Clondalkin, Dublin, Ireland",
+    "lat": 53.321323,
+    "lng": -6.451738,
+    "precision": "building",
+    "source_file": "civil_procedure/701-04",
+    "evidence": "Microsoft \"has not fully complied with the Warrant\" for email content stored in Dublin and was held in contempt so it could appeal. |",
+    "located_at": "2026-10-17",
+    "notes": "Refined: Microsoft's Dublin datacenter (the one in the warrant litigation) is at Grange Castle Business Park (outside knowledge; OpenStreetMap labels it \"Microsoft Grange Castle\")."
+  },
+  "Upjohn Co. v. United States, Supreme Court of the United States, 1981": {
+    "place_name": "Upjohn Co. headquarters, 7000 Portage Rd., Kalamazoo/Portage, Michigan",
+    "lat": 42.213932,
+    "lng": -85.560108,
+    "precision": "building",
+    "source_file": "civil_procedure/390-96",
+    "evidence": "General Counsel Thomas ran an internal investigation of \"questionable payments\"; questionnaires sent to foreign managers were returned to him.",
+    "notes": "Upjohn's Kalamazoo headquarters comes from outside knowledge. Refined: Upjohn's corporate headquarters, where General Counsel Thomas ran the investigation, was at 7000 Portage Road (outside knowledge).",
+    "located_at": "2026-10-17"
+  },
+  "Vaughan v. Menlove, Court of Common Pleas, 1837": {
+    "place_name": "Shropshire (county of Salop), England",
+    "lat": 52.652339,
+    "lng": -2.643564,
+    "precision": "county",
+    "source_file": "torts/142-206",
+    "evidence": "\"two cottages with the appurtenances situate in the county of Salop\" burned when Menlove's hayrick caught fire (Aug. 1, 1835). |",
+    "located_at": "2026-10-17"
+  },
+  "Vincent v. Lake Erie Transportation Co., Supreme Court of Minnesota, 1910, O’Brien, J.": {
+    "place_name": "Plaintiff's dock, Duluth harbor, Minnesota",
+    "lat": 46.783829,
+    "lng": -92.105268,
+    "precision": "town",
+    "source_file": "torts/142-206",
+    "evidence": "\"The steamship Reynolds ... was ... moored to plaintiff's dock in Duluth\" during the storm of Nov. 27–29, 1905. |",
+    "located_at": "2026-10-17"
+  },
+  "Wagner v. State": {
+    "place_name": "K-Mart, American Fork, Utah",
+    "lat": 40.376806,
+    "lng": -111.795915,
+    "precision": "town",
+    "source_file": "torts/pp 1-40.txt",
+    "evidence": "\"Tracy Wagner was standing in a customer service line at a K-Mart store in American Fork, Utah, when she was suddenly and inexplicably attacked from behind.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Wal-Mart Stores, Inc. v. Dukes": {
+    "place_name": "Walmart Home Office campus, Bentonville, Arkansas",
+    "lat": 36.362111,
+    "lng": -94.192583,
+    "precision": "building",
+    "source_file": "civil_procedure/830-50",
+    "evidence": "\"current and former female employees of petitioner Wal-Mart\" at \"approximately 3,400 stores\" challenged local managers' discretion over pay and promotion.",
+    "notes": "The class was nationwide (about 3,400 stores), so the pin is the middle of Walmart's Bentonville home office campus (36°21'43.6\"N 94°11'33.3\"W). Lead plaintiff Betty Dukes worked in Pittsburg, California.",
+    "located_at": "2026-10-24"
+  },
+  "Walker v. Keith, Kentucky Court of Appeals, 382 S.W.2d 198 (1964), authored by Clay, Commissioner": {
+    "place_name": "Leased lot, Bowling Green, Kentucky",
+    "lat": 36.99292,
+    "lng": -86.442868,
+    "precision": "town",
+    "source_file": "contracts/CB pp 68-85",
+    "evidence": "\"In July 1951 appellants, the lessors, leased a small lot to appellee.\"",
+    "notes": "No town is given. Refined: Both sides' counsel were from Bowling Green (382 S.W.2d 198), so the leased lot was most likely there; the opinion doesn't say.",
+    "located_at": "2026-10-17"
+  },
+  "Webb v. McGowin, Alabama Court of Appeals, 1935, Bricken, P.J.": {
+    "place_name": "W. T. Smith Lumber Co. mill, Chapman, Alabama",
+    "lat": 31.671269,
+    "lng": -86.712196,
+    "precision": "town",
+    "source_file": "contracts/CB pp 317-330",
+    "evidence": "Webb was \"clearing the upper floor of mill No. 2\" of W. T. Smith Lumber Co. when he fell with the block to save McGowin.",
+    "notes": "The casebook's photo caption places the mill in Chapman, AL.",
+    "located_at": "2026-10-17"
+  },
+  "Winter v. Natural Resources Defense Council, Inc": {
+    "place_name": "SOCAL Range Complex, off San Clemente Island, California",
+    "lat": 32.9,
+    "lng": -118.5,
+    "precision": "region",
+    "source_file": "civil_procedure/29-44",
+    "evidence": "Plaintiffs claimed \"the Navy's SOCAL training exercises\" using mid-frequency active sonar harmed marine mammals.",
+    "notes": "The pin is in the Southern California Range Complex waters around San Clemente Island.",
+    "located_at": "2026-10-17"
+  },
+  "Wood v. Lucy, Lady Duff-Gordon": {
+    "place_name": "New York, New York",
+    "lat": 40.712728,
+    "lng": -74.006015,
+    "precision": "town",
+    "source_file": "contracts/CB pp 485-496",
+    "evidence": "Wood \"was to have the exclusive right ... to place her indorsements on the designs of others.\"",
+    "notes": "The opinion gives no place. Lady Duff-Gordon's Lucile business was in Manhattan (outside knowledge).",
+    "located_at": "2026-10-17"
+  },
+  "Wright v. Newman, Supreme Court of Georgia, March 4, 1996, Carley, J": {
+    "place_name": "Whitfield County, Georgia",
+    "lat": 34.769187,
+    "lng": -84.970247,
+    "precision": "county",
+    "source_file": "contracts/Wright v Newman.pdf",
+    "evidence": "\"Superior Court, Whitfield County\"; Wright listed himself \"as the father on the child's birth certificate and [gave] the child his last name.\" |",
+    "located_at": "2026-10-17"
+  },
+  "Ybarra v. Spangard, Supreme Court of California, 1944 (Gibson, C.J.; Traynor, J., dissenting from denial of rehearing)": {
+    "place_name": "Dr. Swift's hospital, Ventura, California",
+    "lat": 34.278335,
+    "lng": -119.293174,
+    "precision": "town",
+    "source_file": "torts/278-349",
+    "evidence": "An appendectomy \"at a hospital owned and managed by defendant, Dr. Swift\"; Ybarra woke with a shoulder injury.",
+    "notes": "The opinion doesn't name the city. Ventura comes from the reported case.",
+    "located_at": "2026-10-17"
+  },
+  "Lincoln Benefit Life Co. v. AEI Life, LLC": {
+    "place_name": "Lincoln Benefit Life Company, 2940 S 84th St, Lincoln, Nebraska 68506",
+    "address": "2940 S 84th St, Lincoln, NE 68506",
+    "lat": 40.7819659,
+    "lng": -96.6026455,
+    "precision": "address",
+    "source_file": "civil_procedure/902-10",
+    "evidence": "\"Lincoln Benefit is a life insurance company organized and existing under the laws of Nebraska, with its principal place of business at 2940 South 84th Street, Lincoln, NE 68506.\"",
+    "notes": "Address is from the opinion's quoted complaint; coordinates from Google Maps. The opinion doesn't place the stranger-originated policies themselves, so the pin is the plaintiff insurer's headquarters.",
+    "located_at": "2026-10-27"
+  },
+  "Louisville & Nashville Railroad Co. v. Mottley": {
+    "place_name": "Randolph's Station area, Jefferson County, Kentucky",
+    "lat": 38.1938097,
+    "lng": -85.643487,
+    "precision": "county",
+    "source_file": "civil_procedure/934-36",
+    "evidence": "\"...injuries received by them on the 7th of September, 1871, in consequence of a collision of trains on the railroad of said company at Randolph's Station, Jefferson County, Kentucky...\"",
+    "notes": "The opinion names Randolph's Station, but the station is not on Google Maps and no source locates it (an 1871 newspaper puts it about eight miles from Louisville; a blog post could not match it to any later L&N stop). The pin is the Jefferson County centroid rather than a guessed station. Coordinates are Google Maps' marker for Jefferson County, KY.",
+    "located_at": "2026-10-27"
+  },
+  "Oppenheimer & Co. v. Oppenheim, Appel, Dixon & Co.": {
+    "place_name": "One New York Plaza, Manhattan, New York",
+    "lat": 40.7021251,
+    "lng": -74.0121632,
+    "precision": "building",
+    "source_file": "contracts/CB pp 825-850",
+    "evidence": "\"...plaintiff had three years remaining on its existing lease for the 33rd floor of the building known as One New York Plaza.\"",
+    "notes": "The sublease at issue covered the 33rd floor of One New York Plaza; coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "1 Water St, New York, NY 10004"
+  },
+  "J. N. A. Realty Corp. v. Cross Bay Chelsea, Inc.": {
+    "place_name": "Foro Romano restaurant (the leased building), Cross Bay Blvd at Shore Parkway, Howard Beach, Queens",
+    "lat": 40.664765,
+    "lng": -73.8416679,
+    "precision": "building",
+    "source_file": "contracts/CB pp 825-850",
+    "evidence": "Court of Appeals (42 N.Y.2d 392): J.N.A. Realty, \"the owner of a building in Howard Beach,\" leased the premises in 1964 to Palermo and Vascellaro, who \"opened a restaurant on the premises\"; in February 1964 they formed Foro Romano Corp. and assigned the lease to it, and the lease later passed to Cross Bay Chelsea, Inc.",
+    "notes": "The opinion gives no street address and does not say where the tenant corporation's officers lived. The leased premises were the Foro Romano restaurant: 1964 newspaper listings advertise 'Foro Romano, 92-10 Shore Parkway, Howard Beach, at Belt Parkway and Crossbay Blvd.,' which matches the opinion's Howard Beach restaurant and the 1964 start of the lease, though no source ties J.N.A. Realty to that exact address. Address and coordinates from Google Maps (92-10 Shore Pkwy, shown as a building at Cross Bay Blvd).",
+    "located_at": "2026-10-27",
+    "address": "92-10 Shore Pkwy, Howard Beach, NY 11414"
+  },
+  "Totem Marine Tug & Barge, Inc. v. Alyeska Pipeline Service Co.": {
+    "place_name": "Port Houston Turning Basin / City Docks, Houston Ship Channel",
+    "lat": 29.7295298,
+    "lng": -95.2665917,
+    "precision": "building",
+    "source_file": "contracts/CB pp 575-605",
+    "evidence": "Alaska Supreme Court, 584 P.2d 15: Totem was \"to transport pipeline construction materials from Houston, Texas, to a designated port in southern Alaska\"; on arrival in Houston it found \"about 6,700 to 7,200 tons of coated pipe, steel beams and valves, haphazardly and improperly piled, were in the yard to be loaded,\" and loading took thirty days.",
+    "notes": "The opinion says only that the materials were in a yard in Houston to be loaded onto the barge 'Marine Flasher' by the tug 'Kirt Chouest'; no source names the dock or yard. A 7,000-ton pile of coated pipe, beams and valves that had to be crane-loaded onto an ocean-going barge would most plausibly have been handled at a general-cargo or project-cargo wharf on the Houston Ship Channel. The most likely candidate is Port Houston's Turning Basin general cargo docks (City Docks), at the head of the channel east of downtown, where Google Maps lists 'City Docks Terminal North' at 111 E Loop Fwy. The location is inferred, not documented. Alyeska's own Houston staging yard could have been elsewhere on the channel (for example near Manchester or Galena Park). Address and coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "111 E Loop Fwy, Houston, TX 77029"
+  },
+  "Sparrow v. Demonico": {
+    "place_name": "Woburn, Massachusetts (the family home)",
+    "lat": 42.4792618,
+    "lng": -71.1522765,
+    "precision": "town",
+    "source_file": "contracts/CB pp 575-605",
+    "evidence": "\"A family dispute over ownership of what had been the family home in Woburn...\"",
+    "notes": "The opinion gives no street address for the family home in Woburn; coordinates are Woburn's center from Google Maps.",
+    "located_at": "2026-10-27"
+  },
+  "Sackett v. Spindler": {
+    "place_name": "Santa Clara Journal, Santa Clara, California",
+    "lat": 37.3541079,
+    "lng": -121.9552356,
+    "precision": "town",
+    "source_file": "contracts/CB pp 863-879",
+    "evidence": "S & S Newspapers \"had owned and operated a newspaper in Santa Clara known as the Santa Clara Journal.\"",
+    "notes": "The opinion says only that S & S Newspapers 'had owned and operated a newspaper in Santa Clara known as the Santa Clara Journal' (a Wednesday weekly that merged with the Santa Clara News into the Santa Clara Journal & News in 1966). No source gives its 1961 office address. Santa Clara's commercial core was along Franklin Street, and most of downtown was demolished for urban renewal in 1960-65, so the office building probably no longer exists. The pin is Google Maps' marker for the city of Santa Clara.",
+    "located_at": "2026-10-27"
+  },
+  "Truman L. Flatt & Sons Co. v. Schupf": {
+    "place_name": "Springfield, Illinois (parcel for the proposed asphalt plant)",
+    "lat": 39.8006593,
+    "lng": -89.6449345,
+    "precision": "town",
+    "source_file": "contracts/CB pp 863-879",
+    "evidence": "\"...defendants agreed to sell plaintiff a parcel of land located in Springfield, Illinois.\"",
+    "notes": "The opinion (Ill. App. Ct. 1995) says only that in March 1993 the defendants (including a bank land trust) agreed to sell Flatt 'a parcel of land located in Springfield, Illinois,' with closing contingent on Springfield City Council relief from the zoning code for an asphalt plant; it gives no street, tract or acreage. No public description of the parcel was found, and any 1993 State Journal-Register coverage of the rezoning request is not freely indexed. The pin is Google Maps' marker for the city of Springfield.",
+    "located_at": "2026-10-27"
+  },
+  "Latzel v. Bartek": {
+    "place_name": "Intersection of County Road 17 and County Road T, Saunders County, Nebraska",
+    "lat": 41.336258,
+    "lng": -96.621179,
+    "precision": "address",
+    "source_file": "torts/653-725",
+    "evidence": "\"...an automobile accident that occurred on October 6, 2007, at the unmarked intersection of County Road 17 and County Road T in Saunders County.\"",
+    "notes": "Intersection located with Google Maps (Co Rd 17 & Co Rd T).",
+    "located_at": "2026-10-27",
+    "address": "Co Rd 17 & Co Rd T, South Cedar Township, NE 68015"
+  },
+  "Walt Disney World Co. v. Wood": {
+    "place_name": "Tomorrowland Speedway (the Grand Prix attraction in 1971), Magic Kingdom, Walt Disney World",
+    "lat": 28.4193767,
+    "lng": -81.579299,
+    "precision": "building",
+    "source_file": "torts/725-822",
+    "evidence": "\"Aloysia Wood was injured in November 1971 at the grand prix attraction at Walt Disney World...\"",
+    "notes": "The opinion doesn't name the park; the Magic Kingdom's Grand Prix Raceway (renamed Tomorrowland Speedway) is the attraction that matches, and it is the 1971 site's present-day successor. Coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "1180 Seven Seas Drive, Lake Buena Vista, FL 32830"
+  },
+  "Jones v. Three Rivers Management Corp": {
+    "place_name": "Three Rivers Stadium site (home-plate marker), North Shore, Pittsburgh",
+    "lat": 40.4469399,
+    "lng": -80.0132547,
+    "precision": "building",
+    "source_file": "torts/725-822",
+    "evidence": "\"Appellant was injured at Three Rivers Stadium, Pittsburgh, on July 16, 1970, the sport facility's inaugural day.\"",
+    "notes": "Three Rivers Stadium was demolished in 2001. Coordinates and address are Google Maps' 'Three Rivers Stadium Home Plate' marker on the former site.",
+    "located_at": "2026-10-27",
+    "address": "792 W General Robinson St, Pittsburgh, PA 15212"
+  },
+  "Wong-Leong v. Hawaiian Independent Refinery, Inc": {
+    "place_name": "Hawaiian Independent Refinery (now Par Hawaii Refining), Campbell Industrial Park, Kapolei",
+    "lat": 21.3052432,
+    "lng": -158.0951285,
+    "precision": "building",
+    "source_file": "torts/725-822",
+    "evidence": "\"Rellamas was employed by HIRI at its Campbell Industrial Park refinery.\" The promotion party was held \"in the picnic area on HIRI's property.\"",
+    "notes": "The fatal crash happened later that evening on the way home; its road is not named. The pin is the refinery where the drinking took place. The refinery is now Par Hawaii Refining; coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "91-325 Komohana St, Kapolei, HI 96707"
+  },
+  "Jones v. HealthSouth Treasure Valley Hosp": {
+    "place_name": "Treasure Valley Hospital, Boise, Idaho",
+    "lat": 43.6116219,
+    "lng": -116.2912153,
+    "precision": "building",
+    "source_file": "torts/725-822",
+    "evidence": "Mrs. Jones chose to have her lumbar spine surgery at TVH (Treasure Valley Hospital), \"a surgery center.\"",
+    "notes": "The opinion names the hospital but not its city; the hospital is in Boise (the case is from the Idaho Supreme Court). Coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "8800 W Emerald St, Boise, ID 83704"
+  },
+  "LaFrenz v. Lake County Fair Board": {
+    "place_name": "Lake County Fairgrounds, Crown Point, Indiana",
+    "lat": 41.4008789,
+    "lng": -87.3699569,
+    "precision": "building",
+    "source_file": "torts/725-822",
+    "evidence": "\"...a demolition derby was to be held at the Lake County Fair on August 19, 1972.\"",
+    "notes": "The opinion doesn't give the fairgrounds' town; the Lake County Fair is held at the Lake County Fairgrounds in Crown Point. Coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "899-857 Lake St, Crown Point, IN 46307"
+  },
+  "Scott v. Shepherd": {
+    "place_name": "Market House (now Milborne Port Town Hall), High Street, Milborne Port, Somerset",
+    "lat": 50.9662037,
+    "lng": -2.4601693,
+    "precision": "building",
+    "source_file": "torts/Scott v Shepherd.txt",
+    "evidence": "\"...at Milborne Port, 28th October, 1770, the defendant threw a lighted squib... from the street into the market-house...\"",
+    "notes": "The casebook text says only 'the market-house' at Milborne Port. Wikipedia and Open Plaques identify the 1720 market house as today's Milborne Port Town Hall on High Street, with a Scott v Shepherd plaque listed at 1 High Street. Google Maps does not label the Town Hall (its 'Village Hall' result on Springfield Rd is a different building), so the pin is Google Maps' marker for 1 High St, the plaque's address.",
+    "located_at": "2026-10-27",
+    "address": "1 High St, Milborne Port, Sherborne DT9 5DG, UK"
+  },
+  "Butterfield v. Forrester": {
+    "place_name": "Derby, England (road at the edge of town)",
+    "lat": 52.9225301,
+    "lng": -1.4746186,
+    "precision": "town",
+    "source_file": "torts/653-725",
+    "evidence": "\"At the trial before Bayley J. at Derby... the defendant, for the purpose of making some repairs to his house, which was close by the road side at one end of the town, had put up a pole across this part of the road.\"",
+    "notes": "The report names Derby only as the trial venue; the road and town where the pole stood are not named in the casebook text, so this is a forum-based town pin and is uncertain. The pin is Google Maps' marker for Derby, UK.",
+    "located_at": "2026-10-27"
+  },
+  "Auckenthaler v. Grundmeyer": {
+    "place_name": "Red Rock area, north of Reno, Nevada",
+    "lat": 40.5608387,
+    "lng": -119.6035495,
+    "precision": "county",
+    "source_file": "torts/725-822",
+    "evidence": "\"...riding horses in an area north of Reno, known as Red Rock.\"",
+    "notes": "The opinion says the riders were in 'an area north of Reno, known as Red Rock.' Google Maps does not resolve that area (it returns unrelated places), so the pin is Google Maps' marker for Washoe County, Nevada, as a placeholder.",
+    "located_at": "2026-10-27"
+  },
+  "Herod v. Grant": {
+    "place_name": "Grant's bean field, Montgomery County, Mississippi",
+    "lat": 33.5274427,
+    "lng": -89.6251646,
+    "precision": "county",
+    "source_file": "torts/725-822",
+    "evidence": "\"...an appeal from a judgment of the Circuit Court of Montgomery County... Joseph Grant... and Eddie Earl Herod... ventured into the appellee's bean field in the appellant's pickup truck.\"",
+    "notes": "The opinion places the bean field only in Montgomery County, Mississippi (the county of the trial court); no road or town is given. The pin is Google Maps' marker for Montgomery County, MS.",
+    "located_at": "2026-10-27"
+  },
+  "Duren v. Kunkel": {
+    "place_name": "Kunkel's farm, Missouri",
+    "lat": 37.9642529,
+    "lng": -91.8318334,
+    "precision": "state",
+    "source_file": "torts/725-822",
+    "evidence": "\"On June 27, 1987, Duren was at Kunkel's farm assisting in separating cattle... Duren and Kunkel owned neighboring farms.\"",
+    "notes": "The opinion does not name the county or town (Supreme Court of Missouri, appeal from the Western District). The pin is Google Maps' marker for the state of Missouri.",
+    "located_at": "2026-10-27"
+  },
+  "Hoffman v. Jones": {
+    "place_name": "Florida",
+    "lat": 27.6648274,
+    "lng": -81.5157535,
+    "precision": "state",
+    "source_file": "torts/725-822",
+    "evidence": "The casebook excerpt gives only the certified question and discussion of Florida's contributory negligence rule.",
+    "notes": "The source document contains no facts about the accident; it gives only the certified question and discussion of Florida's contributory-negligence rule. The pin is Google Maps' marker for Florida, from the Supreme Court of Florida's forum.",
+    "located_at": "2026-10-27"
+  },
+  "Bradley v. Appalachian Power Co": {
+    "place_name": "West Virginia",
+    "lat": 38.5976262,
+    "lng": -80.4549026,
+    "precision": "state",
+    "source_file": "torts/725-822",
+    "evidence": "The casebook excerpt reproduces only the court's discussion of replacing contributory negligence with comparative negligence.",
+    "notes": "The source document contains no facts about the accidents; it reproduces only the court's discussion of replacing contributory negligence with comparative negligence. The pin is Google Maps' marker for West Virginia, from the Supreme Court of Appeals of West Virginia's forum.",
+    "located_at": "2026-10-27"
+  },
+  "Brauer v. New York Central & Hudson River Railroad": {
+    "place_name": "Railroad grade crossing, New Jersey",
+    "lat": 40.0583238,
+    "lng": -74.4056612,
+    "precision": "state",
+    "source_file": "torts/653-725",
+    "evidence": "\"This is a case of a grade crossing collision\" (Court of Errors and Appeals of New Jersey, 1918).",
+    "notes": "The excerpt does not name the crossing or the town ('a grade crossing collision,' Court of Errors and Appeals of New Jersey, 1918). The pin is Google Maps' marker for New Jersey.",
+    "located_at": "2026-10-27"
+  },
+  "A.F.A. Tours, Inc. v. Whitchurch": {
+    "place_name": "Alumni Flights Abroad (A.F.A. Tours), White Plains Plaza, One North Broadway, White Plains, New York",
+    "lat": 41.0343212,
+    "lng": -73.7637087,
+    "precision": "building",
+    "source_file": "civil_procedure/912-18",
+    "evidence": "AFA (\"doing business as Alumni Flights Abroad\") appeals from the S.D.N.Y.; Whitchurch led its tours to Australia, New Zealand and New Guinea.",
+    "notes": "The opinion gives no address. 1971 and 1975 Cornell alumni-magazine ads list Alumni Flights Abroad at White Plains Plaza, One North Broadway, White Plains (the years Whitchurch worked for AFA, 1972-89, overlap); this rests on a summary of those ads, and AFA's current address is unknown. Address and coordinates from Google Maps (1 N Broadway).",
+    "located_at": "2026-10-27",
+    "address": "1 N Broadway, White Plains, NY 10601"
+  },
+  "Caterpillar Inc. v. Lewis": {
+    "place_name": "Near Louisa, Lawrence County, Kentucky (site of the July 9, 1988 bulldozer fire)",
+    "lat": 38.1142544,
+    "lng": -82.6032119,
+    "precision": "town",
+    "source_file": "civil_procedure/998-1004",
+    "evidence": "Sixth Circuit: \"On July 9, 1988, plaintiff James David Lewis, a resident of Louisa, Kentucky, was injured while he was operating a Caterpillar D8K bulldozer... While plaintiff was operating the bulldozer near Louisa, Kentucky, a hydraulic hose... ruptured.\" (Lewis v. Caterpillar, Inc., No. 94-5253, 6th Cir. Oct. 11, 1995, unpublished)",
+    "notes": "The Supreme Court opinion in the casebook says only 'Kentucky'; the Sixth Circuit's opinion in the same case places the accident near Louisa. Lewis's employer was Gene A. Wilson Enterprises, Inc.; the exact job site is not given in any available source. A Gene A. Wilson with a Louisa office (101 Madison St) appears in other filings, but it is not confirmed to be the same business, so the pin is Louisa's center, from Google Maps.",
+    "located_at": "2026-10-27"
+  },
+  "Exxon Mobil Corp. v. Allapattah Services, Inc.": {
+    "place_name": "U.S. District Court, Southern District of Florida (Wilkie D. Ferguson Jr. U.S. Courthouse), Miami - where the dealers' class action was filed",
+    "lat": 25.7781127,
+    "lng": -80.1946642,
+    "precision": "forum",
+    "source_file": "civil_procedure/962-80",
+    "evidence": "\"In 1991, about 10,000 Exxon dealers filed a class-action suit against the Exxon Corporation in the United States District Court for the Northern District of Florida.\" (the Court's wording)",
+    "notes": "The pin is the court where the dealers' suit was initially filed. The casebook and the Supreme Court opinion's own text say the Northern District of Florida, but the case record shows otherwise: the dealers' action is Allapattah Services, Inc. v. Exxon Corp., No. 91-0986-Civ (S.D. Fla.), 61 F. Supp. 2d 1308 (1999), tried to a jury in Miami before Judge Gold and then appealed to the Eleventh Circuit (333 F.3d 1248). The facts are a nationwide dealer-overcharge scheme with no single site. The companion case, Ortega v. Star-Kist, was filed in the District of Puerto Rico. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "400 N Miami Ave, Miami, FL 33128"
+  },
+  "Freeland v. Liberty Mutual Fire Insurance Co.": {
+    "place_name": "Trumbull County, Ohio",
+    "lat": 41.3064984,
+    "lng": -80.7214417,
+    "precision": "county",
+    "source_file": "civil_procedure/919-22",
+    "evidence": "\"...Freeland, Jr. was driving the minivan... when he ran a red light and struck a police cruiser in the middle of an intersection.\" The Freelands sued in Ohio state court.",
+    "notes": "The opinion does not name the intersection or town. The Ohio appeal of the same case is numbered 2011-T-0105 in the Eleventh District, where 'T' denotes Trumbull County, so the suit was filed in Trumbull County; the crash itself is assumed to have been in or near that county. Coordinates are Google Maps' marker for Trumbull County.",
+    "located_at": "2026-10-27"
+  },
+  "Grupo Dataflux v. Atlas Global Group": {
+    "place_name": "U.S. District Court, Southern District of Texas (Bob Casey U.S. Courthouse), Houston",
+    "lat": 29.7608906,
+    "lng": -95.367525,
+    "precision": "forum",
+    "source_file": "civil_procedure/1005-13",
+    "evidence": "\"Atlas Global Group, L.P., is a limited partnership created under Texas law. In November 1997, Atlas filed a state-law suit against... Grupo Dataflux, a Mexican corporation, in the United States District Court for the Southern District of Texas.\"",
+    "notes": "No place for the breach-of-contract facts is given, and the opinion doesn't say which S.D. Tex. division heard it; the pin is the Houston courthouse. Address and coordinates from Google Maps.",
+    "located_at": "2026-10-27",
+    "address": "515 Rusk St, Houston, TX 77002"
+  },
+  "Minton v. Gunn": {
+    "place_name": "Tarrant County civil district courts (Tom Vandergriff Civil Court Building), Fort Worth, Texas",
+    "lat": 32.7582339,
+    "lng": -97.3314153,
+    "precision": "forum",
+    "source_file": "civil_procedure/947-55",
+    "evidence": "Court of Appeals (Fort Worth): \"On August 25, 2004, Minton filed this legal malpractice action against appellees...\" The trial court granted summary judgment for Gunn, and \"Minton appealed the judgment to the Second Court of Appeals in Fort Worth.\"",
+    "notes": "The pin is the court where the malpractice suit was filed. The opinions do not name the trial court or county; they say the suit was filed in state court on August 25, 2004 and appealed to the Second Court of Appeals in Fort Worth, and both sides' appellate counsel were in Fort Worth. That points to a Tarrant County district court (the Second Court also covers Denton and other nearby counties); the county is inferred and not confirmed from the docket. The pin is Google Maps' marker for the Tom Vandergriff Civil Court Building, where Tarrant County's civil district courts sit. Minton's earlier patent suit was in the Eastern District of Texas, Lufkin Division; no source places the TEXCEN lease to R.M. Stark & Co.",
+    "located_at": "2026-10-27",
+    "address": "N Calhoun St, Fort Worth, TX 76102"
+  },
+  "Red Cab Co. v. St. Paul Mercury Indemnity Co.": {
+    "place_name": "Marion County (Indianapolis), Indiana",
+    "lat": 39.83619,
+    "lng": -86.1751759,
+    "precision": "county",
+    "source_file": "civil_procedure/992-97",
+    "evidence": "\"The respondent, a corporation of Indiana, issued a summons out of the superior court of Marion county, Indiana, against the petitioner, a Minnesota corporation doing business in Indiana...\"",
+    "notes": "No address is given for the Red Cab Company; Marion County is the county of its state-court suit and contains Indianapolis. Pin is Indianapolis. Coordinates are Google Maps' marker for Marion County, IN.",
+    "located_at": "2026-10-27"
+  },
+  "Jacob & Youngs, Inc. v. Kent": {
+    "place_name": "George E. Kent's \"Jericho House,\" Jericho, Long Island, New York",
+    "lat": 40.7920441,
+    "lng": -73.5398476,
+    "precision": "town",
+    "source_file": "contracts/CB pp 850-863",
+    "evidence": "Appellate Division, 187 A.D. 100 (1919): the building contract of May 5, 1913 was for \"a private residence for the defendant at Jericho, L. I.\"; Cardozo: work \"ceased in June, 1914, and the defendant then began to occupy the dwelling.\"",
+    "notes": "Cardozo's opinion says only 'a country residence'; the Appellate Division's opinion places it at Jericho, Long Island (Nassau County), and Old Long Island blog posts identify it as 'Jericho House,' the George Edward Kent estate, built 1913-14 by Jacob & Youngs and later demolished. It stood near Jericho Turnpike (NY 25) close to the Ralph J. Preston estate 'Ivy Hall,' but no source gives an address or coordinates, so the pin is Google Maps' marker for the hamlet of Jericho, not the house.",
+    "located_at": "2026-10-27"
+  }
+}

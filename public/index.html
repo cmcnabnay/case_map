@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Case Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="map"></div>
+
+  <aside id="panel">
+    <div class="search">
+      <button id="toggle-panel" aria-label="Toggle case list">☰</button>
+      <input id="search" type="search" placeholder="Search cases or places" autocomplete="off">
+    </div>
+    <div id="panel-body">
+      <div id="filters"></div>
+      <div id="summary"></div>
+      <ul id="list"></ul>
+    </div>
+  </aside>
+
+  <div id="basemap">
+    <button data-mode="map" class="active">Map</button>
+    <button data-mode="satellite">Satellite</button>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
